@@ -1,0 +1,41 @@
+Product info 
+
+title:
+2,7 mm Basic Cable – Black
+
+Description/Information/Details:
+The 2,7 mm Basic Cable is a quality cable that works for ALL robot mower installations.
+The cable is insulated with hard plastic to protect the wire. It is still very flexible and can, therefore, be laid with all cable machines.
+The cable comes in high-quality wooden spools for 800 and 1000 meters.
+Available on drums of 800 and 1000 meters with a diameter of 2,7 mm.
+Fits any robotic lawn mower
+All cables come with meter marking!
+SKU: N/A 
+Categories: Boundary Cable, Standard Cable 
+Tags: 2.7mm cable, Basic cable, Cable, Green cable
+
+Description:
+Thickness 2,7 mm Basic cable with a more stable insulation than the original plastic.
+Cable roll size: 800/1000 Meters – the 1000 meter roll will fit all professional cable machines.
+Used for the installation of robot mowers, boundary loop, boundary cable, search cable, look-up loop, guide-wire and much more.
+For all Husqvarna Automower models such: 105 305 308 310 315 315X 320 330X 420 430X 440 450X 520 550 G2 G3 210C 220AC 230ACX 260ACX 265ACX SH Solar Hybrid
+For all Gardena models such as: R38Li R40Li R45Li R50Li R70Li R75Li R80Li R100Li R130Li R160Li R165 R180 Sileno Sileno+ Sileno City smart Sileno City smart Sileno smart Sileno+
+For all McCulloch such as: ROB R600 and R1000 Bosch Indego 800 1000 1100 1200 connect WorX Landroid
+For all Robomow-autonomous models such as: MC300, MC500, MC1000, MC1200, MS-Serie, RL-series, RM-Series.
+For all Ambrogio models such as: L200-250 -Robot models
+For All Stihl/Viking iMow robots
+For All Honda Miimo robots
+
+Additional information
+Weight	N/A
+Dimensions	N/A
+Length	
+50m, 100m, 150m, 250m, 500m, 800m, 1000m
+
+
+Catalogues are in this directory:
+document_processing\input_pdfs\2,7 mm Basic Cable – Black\catalogues
+
+
+All above files, data, information to be used for:
+document_processing\input_pdfs\2,7 mm Basic Cable – Black\2,7 mm Basic Cable – Black.json

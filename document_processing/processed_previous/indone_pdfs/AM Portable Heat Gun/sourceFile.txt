@@ -1,0 +1,38 @@
+Product info
+
+title:
+AM Portable Heat Gun
+
+Description/Information/Details:
+If you want to be sure to bring the best tool for any repair or installation of a robot lawn mower, then you need our AM Portable Heat Gun.
+This product has been designed to make repairs on boundary cable in any garden at any location.
+You can do over 30 repairs on one battery charge, and you are ensuring the best quality connection if you use our Pro Heat Shrink Kit for Repairs for connection of 2 wires.
+The heat gun runs on 18 volt power and the 4AH battery will help you provide a powerful and long lasting heat blow. The max temperature is 550°C. and is the perfect adjusted temperature for all heat shrink connectors.
+A must have for a Robotic Mower Installer
+Cordless performance with Lithium batteries
+Repair over 30 boundary wires on one charge
+Can be used to connect any Robot Mower cable
+You will quickly find that the AM Heat gun is your best friend in the outdoor field if you need to use heat shrink, heat sleeves, tin or electrical tape.
+Battery: 4AH lithium battery
+Power: 18v
+SKU: 62691699 
+Categories: Heat Gun, Others
+
+Description
+Battery: 4AH lithium battery
+Power: 18v DC
+Rated current: 15A
+Max temp: 550 C.
+Max airflow: 200L/min
+Runs per charge: 16,5min
+
+Additional information
+Weight: 2 kg
+Type: Heat Gun, Heat Gun w/ extra battery, Extra battery
+
+
+Catalogues are in this directory:
+document_processing\input_pdfs\AM Portable Heat Gun\catalogues
+
+All above files, data, information to be used for:
+document_processing\input_pdfs\AM Portable Heat Gun\AM Portable Heat Gun.json

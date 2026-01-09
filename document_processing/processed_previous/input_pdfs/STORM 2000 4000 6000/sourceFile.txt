@@ -1,0 +1,112 @@
+Product info
+
+title:
+STORM 2000 | 4000 | 6000
+
+Description/Information/Details:
+STORM 2000, STORM 4000, and STORM 6000 work with revolutionary LDI Technology. STORM offers unlimited capabilities without any external sources like RTK, boundary cable, Poles, or 4G connections. 
+STORM is ideal for both private gardens and larger green areas, and it’s the first self-reliant intelligent robot that makes lawn maintenance a worry-free task.
+THE LDI – Technology is a combined solution of 3D Laser Mapping, Direct AI processor, and Imaging for an obstacle avoidance system.
+This technology enables the robot to navigate around or under trees, bushes, or close to reinforced walls without physical boundaries.
+STORM is 100% self-reliant and can anticipate its route and avoid moving objects in its surroundings.
+What STORM can do:
+✅ Moveable object avoidance, detects obstacles from 1 cm wide.
+✅ Climb slopes of up to 45%
+✅ 28 cm cutting width and cutting height from 3 cm to 8,5 cm.
+✅ Unlimited cutting zones and no-go zones
+✅ Effortless mowing everywhere without external signals
+What STORM doesn’t need:
+❌ No RTK/GPS signal required
+❌ No boundary cables
+❌ No external technology
+❌ No limitations for: Trees, brick/metal walls or indoor docking
+Specification schedule
+*AM ROBOTS reserves the right to approve dealers before the robot can be sent to the customers.
+Get connected with a dealer near you—reach out to us at: info@am-robots.com
+SKU: N/A 
+Category: Robot mowers 
+Tags: Robotmower, STORM
+
+Description
+Navigation System	STORM 2000	STORM 4000	STORM 6000
+Max Mowing Size	 2000㎡ (0.5 Acres)	 4000㎡ (1 Acres)	 6000㎡ (1.5 Acres)
+ For more specifications, see the specification schedule below (raw table):
+PRODUCT INFO STORM 2000 STORM 4000 STORM 6000
+MOWING ROBOT
+DIMENSIONS
+725.2*507.6*336.4mm 725.2*507.6*336.4mm 725.2*507.6*336.4mm
+CHARGING STATION
+DIMENSIONS
+520.3*513.7*388.3mm 520.3*513.7*388.3mm 520.3*513.7*388.3mm
+NAVIGATION SYSTEM
+POSITIONING AND
+NAVIGATION LDI Technology LDI Technology LDI Technology
+OBSTACLE
+AVOIDANCE LDI Technology / Bumper LDI Technology / Bumper LDI Technology / Bumper
+ROUTE PLANNING U-shaped & Loops U-shaped & Loops U-shaped & Loops
+CONTINUOUS
+CUTTING ✔ ✔ ✔
+MULTI-ZONE AND
+NO-GO ZONES
+MANAGEMENT
+✔ ✔ ✔
+MOWING
+PERFORMANCE
+MOWING SIZE Up to 2000m2 (0.5 acres) Up to 4000m2 (1 acre) Up to 6000m2 (1.5 acres)
+MOWING AREA PER
+CHARGE
+450m2 600m2 900m2
+MOWING SPEED
+RANGE
+0.2-0.6m/s 0.2-0.6m/s 0.2-0.6m/s
+MOWING HEIGHT
+30mm-85mm
+(1.2 in.-3.5 in.)
+30mm-85mm
+(1.2 in.-3.5 in.)
+30mm-85mm
+(1.2 in.-3.5 in.)
+MOWING WIDTH
+280mm 280mm 280mm
+MAX. SLOPE 45% 45% 45%
+NUMBER OF BLADES 5 5 5
+NARROWEST
+PASSAGE 110cm 110cm 110cm
+AUTO-RECHARGE ✔ ✔ ✔
+NETWORK CONTROL
+CONNECTIVITY WiFi, 4G, Bluetooth WiFi, 4G, Bluetooth WiFi, 4G, Bluetooth
+WI-FI FREQUENCY
+”2.4GHz-2.4835GHz
+5.1GHz-5.85GHz”
+”2.4GHz-2.4835GHz
+5.1GHz-5.85GHz”
+”2.4GHz-2.4835GHz
+5.1GHz-5.85GHz”
+OTA ✔ ✔ ✔
+POWER SYSTEM
+BATTERY TYPE Lithium Battery Lithium Battery Lithium Battery
+BATTERY CAPACITY 18V, 13Ah 18V, 13Ah 18V, 17,5Ah
+CHARGING TIME 180 min 180 min 180 min
+MOWING TIME
+ON ONE FULL
+CHARGE
+120 min 120 min 180 min
+AUTO-RECHARGE ✔ ✔ ✔
+SAFETY SYSTEM
+LIFT SENSOR ✔ ✔ ✔
+TILT SENSOR ✔ ✔ ✔
+FLIP SENSOR ✔ ✔ ✔
+RAIN DETECTION ✔ ✔ ✔
+WATERPROOF LEVEL IPX5 IPX5 IPX5
+
+Additional information
+Weight: 22,7 kg
+Dimensions: 48 × 38 × 26 cm
+Model: STORM 2000, STORM 4000, STORM 6000
+
+
+Catalogues are in this directory:
+document_processing\input_pdfs\STORM 2000 4000 6000\catalogues
+
+All above files, data, information to be used for:
+document_processing\input_pdfs\STORM 2000 4000 6000\STORM 2000 4000 6000.json

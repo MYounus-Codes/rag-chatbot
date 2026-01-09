@@ -1,0 +1,29 @@
+Product info
+
+title:
+STORM Reversible Blades
+
+Description/Information/Details:
+STORM Reversible Blades – Efficiency, Durability, Savings.
+STORM Reversible Blades are an innovative blade solution for robotic lawn mowers, specifically designed for professional users and the B2B segment, where reliability and total cost of ownership are crucial.
+4-Sided Use – Maximum Utilization
+Each blade is engineered with four cutting edges, allowing it to be flipped and reused up to four times before replacement is needed. This delivers up to 100% longer lifespan compared to traditional 2-sided blades – a significant saving on maintenance and replacement costs.
+Optimized Steel Alloy – Balanced Strength
+STORM Reversible Blades are made from a specially developed metal blend that perfectly balances hardness and flexibility:
+Impact resistant – will not break upon contact with stones.
+Shape stable – resists bending, ensuring consistent cutting and reducing the risk of uneven grass.
+
+Description
+Compatibility
+STORM Reversible Blades fit: STORM 2000, STORM 4000, and STORM 6000, plus newer models.
+
+Additional information
+Quantity	
+10 pcs, 40 pcs, 300 pcs
+
+
+Catalogues are in this directory:
+document_processing\input_pdfs\STORM Reversible Blades\catalogues
+
+All above files, data, information to be used for:
+document_processing\input_pdfs\STORM Reversible Blades\STORM Reversible Blades.json

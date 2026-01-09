@@ -1,0 +1,225 @@
+{
+  "schema_version": "1.0",
+  "product": {
+    "product_id": "34-mm-orange-standard-cable",
+    "slug": "34-mm-orange-standard-cable",
+    "title": "3,4 mm Orange Standard Cable",
+    "short_description": "Robot mower standard Cable in Orange – An alternative for a second installation in the same garden.",
+    "long_description": "Robot mower standard Cable in Orange – An alternative for a second installation in the same garden. Our Standard Cable in orange is the same cable as our green cable, just in a different colour. Sizes: 500/800 meters Fits any robotic lawn mower Additional installations Complicated installations 2nd installation in the same garden Repairs Cable differentiation Guide cable Thickness: 3,4 mm robot mower standard Cable Cable roll size: 500/800 meters – the 800 meters will fit all professional cable machines. Used for installation of robot mowers, boundary loop, boundary cable, search cable, look-up loop, guide-wire and much more. For all Husqvarna Automower types such: 105 305 308 310 315 315X 320 330X 420 430X 440 450X 520 550 G2 G3 210C 220AC 230ACX 260ACX 265ACX SH Solar Hybrid For all Gardena types such as: R38Li R40Li R45Li R50Li R70Li R75Li R80Li R100Li R130Li R160Li R165 R180 Sileno Sileno+ Sileno City smart Sileno City smart Sileno smart Sileno+ For all McCulloch such as: ROB R600 and R1000 Bosch Indego 800 1000 1100 1200 connect WorX Landroid For all Robomow-autonomous models such as: MC300, MC500, MC1000, MC1200, MS-Serie, RL-series, RM-Series. For all Ambrogio types such as: L200-250 -Robot models For All Honda Miimo robots",
+    "brand": "AM ROBOTS",
+    "product_type": "boundary-cable",
+    "categories": [
+      "Boundary Cable",
+      "Standard Cable"
+    ],
+    "tags": [
+      "3.4mm cable",
+      "Cable",
+      "Orange cable",
+      "Standard cable"
+    ],
+    "identifiers": {
+      "sku": "N/A",
+      "manufacturer": "AM ROBOTS"
+    },
+    "specs": {
+      "notes": "See catalogue for detailed specifications."
+    },
+    "variants": [],
+    "created_at": "2026-01-01T16:03:59Z",
+    "updated_at": "2026-01-01T16:03:59Z",
+    "source_files": [
+      {
+        "type": "product_details",
+        "filename": "sourceFile.txt",
+        "language": "en"
+      },
+      {
+        "type": "catalogue",
+        "filename": "Catalogue_Danish.json",
+        "language": "da"
+      },
+      {
+        "type": "catalogue",
+        "filename": "Catalogue_English.json",
+        "language": "en"
+      },
+      {
+        "type": "catalogue",
+        "filename": "Catalogue_French.json",
+        "language": "fr"
+      },
+      {
+        "type": "catalogue",
+        "filename": "Catalogue_German.json",
+        "language": "de"
+      },
+      {
+        "type": "catalogue",
+        "filename": "Catalogue_Italian.json",
+        "language": "it"
+      },
+      {
+        "type": "catalogue",
+        "filename": "Catalogue_Spanish.json",
+        "language": "es"
+      }
+    ]
+  },
+  "documents": [
+    {
+      "doc_id": "proddetail-en-34-mm-or",
+      "doc_type": "product_details",
+      "language": "en",
+      "source": "sourceFile.txt",
+      "pages": [
+        {
+          "page_number": 1,
+          "heading": "Product Overview",
+          "text": "Robot mower standard Cable in Orange – An alternative for a second installation in the same garden. Our Standard Cable in orange is the same cable as our green cable, just in a different colour. Sizes: 500/800 meters Fits any robotic lawn mower Additional installations Complicated installations 2nd installation in the same garden Repairs Cable differentiation Guide cable Thickness: 3,4 mm robot mower standard Cable Cable roll size: 500/800 meters – the 800 meters will fit all professional cable machines. Used for installation of robot mowers, boundary loop, boundary cable, search cable, look-up loop, guide-wire and much more. For all Husqvarna Automower types such: 105 305 308 310 315 315X 320 330X 420 430X 440 450X 520 550 G2 G3 210C 220AC 230ACX 260ACX 265ACX SH Solar Hybrid For all Gardena types such as: R38Li R40Li R45Li R50Li R70Li R75Li R80Li R100Li R130Li R160Li R165 R180 Sileno Sileno+ Sileno City smart Sileno City smart Sileno smart Sileno+ For all McCulloch such as: ROB R600 and R1000 Bosch Indego 800 1000 1100 1200 connect WorX Landroid For all Robomow-autonomous models such as: MC300, MC500, MC1000, MC1200, MS-Serie, RL-series, RM-Series. For all Ambrogio types such as: L200-250 -Robot models For All Honda Miimo robots"
+        }
+      ]
+    },
+    {
+      "doc_id": "catalogue-da-34-mm-or",
+      "doc_type": "catalogue",
+      "language": "da",
+      "source": "Catalogue_Danish.json",
+      "pages": [
+        {
+          "page_number": 1,
+          "heading": "Catalogue Reference (Danish)",
+          "text": "See attached catalogue for product family context and specifications. (Danish catalogue included.)"
+        }
+      ],
+      "metadata": {
+        "attached_file": "Catalogue_Danish.json"
+      }
+    },
+    {
+      "doc_id": "catalogue-en-34-mm-or",
+      "doc_type": "catalogue",
+      "language": "en",
+      "source": "Catalogue_English.json",
+      "pages": [
+        {
+          "page_number": 1,
+          "heading": "Catalogue Reference (English)",
+          "text": "See attached catalogue for product family context and specifications. (English catalogue included.)"
+        }
+      ],
+      "metadata": {
+        "attached_file": "Catalogue_English.json"
+      }
+    },
+    {
+      "doc_id": "catalogue-fr-34-mm-or",
+      "doc_type": "catalogue",
+      "language": "fr",
+      "source": "Catalogue_French.json",
+      "pages": [
+        {
+          "page_number": 1,
+          "heading": "Catalogue Reference (French)",
+          "text": "See attached catalogue for product family context and specifications. (French catalogue included.)"
+        }
+      ],
+      "metadata": {
+        "attached_file": "Catalogue_French.json"
+      }
+    },
+    {
+      "doc_id": "catalogue-de-34-mm-or",
+      "doc_type": "catalogue",
+      "language": "de",
+      "source": "Catalogue_German.json",
+      "pages": [
+        {
+          "page_number": 1,
+          "heading": "Catalogue Reference (German)",
+          "text": "See attached catalogue for product family context and specifications. (German catalogue included.)"
+        }
+      ],
+      "metadata": {
+        "attached_file": "Catalogue_German.json"
+      }
+    },
+    {
+      "doc_id": "catalogue-it-34-mm-or",
+      "doc_type": "catalogue",
+      "language": "it",
+      "source": "Catalogue_Italian.json",
+      "pages": [
+        {
+          "page_number": 1,
+          "heading": "Catalogue Reference (Italian)",
+          "text": "See attached catalogue for product family context and specifications. (Italian catalogue included.)"
+        }
+      ],
+      "metadata": {
+        "attached_file": "Catalogue_Italian.json"
+      }
+    },
+    {
+      "doc_id": "catalogue-es-34-mm-or",
+      "doc_type": "catalogue",
+      "language": "es",
+      "source": "Catalogue_Spanish.json",
+      "pages": [
+        {
+          "page_number": 1,
+          "heading": "Catalogue Reference (Spanish)",
+          "text": "See attached catalogue for product family context and specifications. (Spanish catalogue included.)"
+        }
+      ],
+      "metadata": {
+        "attached_file": "Catalogue_Spanish.json"
+      }
+    }
+  ],
+  "chunks": [
+    {
+      "chunk_id": "c-34-mm-oran-overview-0001",
+      "doc_id": "proddetail-en-34-mm-or",
+      "language": "en",
+      "doc_type": "product_details",
+      "page_number": 1,
+      "heading": "Overview",
+      "chunk_index": 0,
+      "text": "Robot mower standard Cable in Orange – An alternative for a second installation in the same garden.",
+      "token_count": 24,
+      "metadata": {
+        "product_id": "34-mm-orange-standard-cable",
+        "source": "sourceFile.txt"
+      }
+    },
+    {
+      "chunk_id": "c-34-mm-oran-desc-0002",
+      "doc_id": "proddetail-en-34-mm-or",
+      "language": "en",
+      "doc_type": "product_details",
+      "page_number": 1,
+      "heading": "Description",
+      "chunk_index": 1,
+      "text": "Robot mower standard Cable in Orange – An alternative for a second installation in the same garden. Our Standard Cable in orange is the same cable as our green cable, just in a different colour. Sizes: 500/800 meters Fits any robotic lawn mower Additional installations Complicated installations 2nd installation in the same garden Repairs Cable differentiation Guide cable Thickness: 3,4 mm robot mower standard Cable Cable roll size: 500/800 meters – the 800 meters will fit all professional cable ",
+      "token_count": 125,
+      "metadata": {
+        "product_id": "34-mm-orange-standard-cable",
+        "source": "sourceFile.txt"
+      }
+    }
+  ],
+  "provenance": {
+    "ingested_at": "2026-01-01T16:03:59Z",
+    "ingested_by": "document-processor-v1.0",
+    "raw_files": [
+      "sourceFile.txt",
+      "Catalogue_Danish.json",
+      "Catalogue_English.json",
+      "Catalogue_French.json",
+      "Catalogue_German.json",
+      "Catalogue_Italian.json",
+      "Catalogue_Spanish.json"
+    ]
+  }
+}

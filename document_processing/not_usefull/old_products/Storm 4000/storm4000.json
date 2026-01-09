@@ -1,0 +1,117 @@
+{
+  "id": "storm_4000",
+  "product_name": "STORM 4000",
+  "title_variants": [
+    "STORM 2000",
+    "STORM 4000",
+    "STORM 6000"
+  ],
+  "type": "Autonomous robotic lawn mower",
+  "short_description": "STORM 2000, STORM 4000 and STORM 6000 use LDI Technology (3D LiDAR mapping + Direct AI processor + Imaging) to deliver self-reliant, boundary-free lawn maintenance without RTK, boundary cables or external signals.",
+  "long_description": "STORM is ideal for private gardens and larger green areas. LDI Technology (3D Laser Mapping + Direct AI processor + Imaging) enables advanced obstacle avoidance and navigation without external systems (RTK/GPS, boundary wire, poles or 4G). STORM anticipates routes and avoids both static and moving obstacles — navigating under tree branches, close to walls, and around shrubs without physical boundaries.",
+  "features": [
+    "Moveable object avoidance (detects obstacles from 1 cm width)",
+    "Climb slopes up to 45%",
+    "28 cm cutting width; cutting height 3 cm – 8.5 cm",
+    "Unlimited cutting zones and flexible no-go zones (via app)",
+    "Works completely without RTK/GPS, boundary cables, poles or external signals"
+  ],
+  "limitations": [
+    "AM ROBOTS reserves the right to approve dealers before dispatch",
+    "Dealer approval required for sales in some markets"
+  ],
+  "contact": {
+    "sales_email": "info@am-robots.com",
+    "website": "https://www.am-robots.com",
+    "phone": "+45 8140 1221 (catalogue contact)"
+  },
+  "specifications": {
+    "navigation_system": "LDI (3D LiDAR SLAM + Direct AI processor + Imaging)",
+    "max_mowing_area": {
+      "STORM_2000": "2000 m² (0.5 acres)",
+      "STORM_4000": "4000 m² (1 acre)",
+      "STORM_6000": "6000 m² (1.5 acres)"
+    },
+    "cutting": {
+      "cutting_width_cm": 28,
+      "cutting_height_cm": {
+        "min": 3,
+        "max": 8.5
+      }
+    },
+    "mobility": {
+      "max_slope_percent": 45
+    },
+    "physical": {
+      "weight_kg": 22.7,
+      "dimensions_cm": {
+        "length": 48,
+        "width": 38,
+        "height": 26
+      }
+    },
+    "package_and_materials": {
+      "materials": "Plastic and aluminum alloy (catalogue/manual notes)",
+      "package_contents": [
+        "STORM mower",
+        "Charging station",
+        "Power adapter",
+        "Fixed charging station nails",
+        "Spare blade kit",
+        "Hex key",
+        "Cleaning kit",
+        "Quick start guide",
+        "User manual",
+        "Warranty card"
+      ]
+    }
+  },
+  "models": [
+    {
+      "model_id": "STORM-2000",
+      "max_area_m2": 2000
+    },
+    {
+      "model_id": "STORM-4000",
+      "max_area_m2": 4000
+    },
+    {
+      "model_id": "STORM-6000",
+      "max_area_m2": 6000
+    }
+  ],
+  "catalogue_cleaned_text": "Catalog highlights (selected): Garages, Hybrid Grass, Cables (Premium, Standard, Basic), Cable machines, Installation & Repair kits, Robot Redirect, Blades and Accessories. AM ROBOTS presents garages (wooden and aluminium), hybrid grass solutions, premium safety cables (3.8 mm with 10-year warranty), cable machines (fuel and battery-driven), installation and repair kits, and a wide selection of blades compatible with many brands. Catalogue includes SKUs and product sizes; image references removed in this manifest. For full catalogue content refer to the original catalogue file (cleaned and chunked for RAG ingestion).",
+  "manuals": {
+    "quick_manual_en": {
+      "source_file": "Quick_Manual_English.json",
+      "cleaned_text": "Quick Start — Lawn pre-cleaning: draw a sketch of your yard and mark charging station, work areas, passages, recharge paths and No-Go zones. Remove debris (branches, toys, wires, stones). Trim lawn to ≤10 cm before first use. Package contents listed: mower, charging station, fixed nails, power adapter, spare blade kit, hex key, cleaning kit, tape, quick start guide, warranty card. Charging station installation: allow 0.5 m each side and 2 m in front; maintain 20 cm distance from a wall when mounted against one. App: search for HOOKII Neomow (Google Play / App Store) and add device. Place STORM on charging station and press & hold ON/OFF to start; HOOKII indicator will turn blue when ready. Button summary: ON/OFF, MOW, HOME, STOP. Follow the Quick Start procedures for safe startup and app mapping.",
+      "notes": "Image references and binary artifacts removed; whitespace normalized."
+    },
+    "user_manual_en": {
+      "source_file": "Manual_English.json",
+      "cleaned_text": "User Manual — Overview & safety: Read manual before use. STORM is LiDAR SLAM based and requires reading safety instructions (general rules, installation, usage, storage, handling). System: mower + charging station + HOOKII Neomow App. Use the App to create maps, set mowing parameters, create No-Go zones and passages, and remotely operate the mower. Installation: prepare lawn (remove obstacles, level holes), choose charging station location with recommended clearances, secure charging station using provided nails or indoor mounting methods. Using STORM: app pairing, map creation, daily mowing, obstacle avoidance, acousto-optic guidance (lights and sound), and maintenance schedule. Maintenance: regular cleaning, consumables replacement, battery care and storage instructions. Troubleshooting and warranty information included. Technical sections (specifications, charging, safety icons) preserved; control-character noise and image references removed for ingestion.",
+      "notes": "Some low-level binary/control characters present in original were stripped; core headings and instructions preserved. See original file for full page-by-page layout if needed."
+    }
+  },
+  "assets": {
+    "images_in_source": false,
+    "images_note": "All image markdown references were removed from the cleaned text. If you need to keep thumbnails or images for the UI, store them separately and reference file paths in the manifest (e.g. assets/images/STORM_4000_01.jpg)."
+  },
+  "metadata": {
+    "languages_available": [
+      "en",
+      "it",
+      "es",
+      "da",
+      "fr",
+      "de"
+    ],
+    "source_files": [
+      "Catalogue_English.json",
+      "Manual_English.json",
+      "Quick_Manual_English.json"
+    ],
+    "created_by": "automated-storm-manifest-generator",
+    "notes": "This JSON is cleaned for RAG ingestion. Next step: chunk the 'manuals' and 'catalogue_cleaned_text' into token-sized passages and generate embeddings for the vector DB. Keep this file as the canonical product manifest; store per-language manuals/catalogues as separate files (referenced here) if you prefer smaller file sizes per language."
+  }
+}

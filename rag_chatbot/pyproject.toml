@@ -1,0 +1,28 @@
+[project]
+name = "am-robots-chatbot"
+version = "1.0.0"
+description = "AM ROBOTS Support RAG Chatbot - Product assistant for robotic lawnmower equipment"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "chainlit>=1.3.0",
+    "openai-agents>=0.6.0",
+    "pinecone>=5.0.0",
+    "supabase>=2.0.0",
+    "sentence-transformers>=3.0.0",
+    "python-dotenv>=1.0.0",
+    "pydantic>=2.0.0",
+    "deep-translator>=1.11.0",
+    "langdetect>=1.0.9",
+    "aiohttp>=3.9.0",
+    "bcrypt>=4.0.0",
+    "apscheduler>=3.11.2",
+    "playwright>=1.57.0",
+    "beautifulsoup4>=4.12.0",
+]
+
+[project.scripts]
+start = "chainlit run app.py"
+
+[tool.uv]
+dev-dependencies = ["pytest>=8.0.0"]

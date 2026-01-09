@@ -1,0 +1,224 @@
+{
+  "schema_version": "1.0",
+  "product": {
+    "product_id": "basic-cable-tracker",
+    "slug": "basic-cable-tracker",
+    "title": "Basic Cable Tracker",
+    "short_description": "The Basic Cable Tracker works for cables above the ground.",
+    "long_description": "The Basic Cable Tracker works for cables above the ground. This tracker can locate up to 10 km of cable. You need to hold the tracker on the wire, for it to detect the cable. The tracker can also be used, if you dig up the buried cable. However, we recommend using our Pro tracker for cables underground.",
+    "brand": "AM ROBOTS",
+    "product_type": "boundary-cable",
+    "categories": [
+      "Others",
+      "Trackers"
+    ],
+    "tags": [
+      "Basic",
+      "Cable",
+      "Tracker"
+    ],
+    "identifiers": {
+      "sku": "60503597",
+      "manufacturer": "AM ROBOTS"
+    },
+    "specs": {
+      "weight": "0,4 kg"
+    },
+    "variants": [],
+    "created_at": "2026-01-01T14:21:23Z",
+    "updated_at": "2026-01-01T14:21:23Z",
+    "source_files": [
+      {
+        "type": "product_details",
+        "filename": "sourceFile.txt",
+        "language": "en"
+      },
+      {
+        "type": "catalogue",
+        "filename": "Catalogue_Danish.json",
+        "language": "da"
+      },
+      {
+        "type": "catalogue",
+        "filename": "Catalogue_English.json",
+        "language": "en"
+      },
+      {
+        "type": "catalogue",
+        "filename": "Catalogue_French.json",
+        "language": "fr"
+      },
+      {
+        "type": "catalogue",
+        "filename": "Catalogue_German.json",
+        "language": "de"
+      },
+      {
+        "type": "catalogue",
+        "filename": "Catalogue_Italian.json",
+        "language": "it"
+      },
+      {
+        "type": "catalogue",
+        "filename": "Catalogue_Spanish.json",
+        "language": "es"
+      }
+    ]
+  },
+  "documents": [
+    {
+      "doc_id": "proddetail-en-basic-ca",
+      "doc_type": "product_details",
+      "language": "en",
+      "source": "sourceFile.txt",
+      "pages": [
+        {
+          "page_number": 1,
+          "heading": "Product Overview",
+          "text": "The Basic Cable Tracker works for cables above the ground. This tracker can locate up to 10 km of cable. You need to hold the tracker on the wire, for it to detect the cable. The tracker can also be used, if you dig up the buried cable. However, we recommend using our Pro tracker for cables underground."
+        }
+      ]
+    },
+    {
+      "doc_id": "catalogue-da-basic-ca",
+      "doc_type": "catalogue",
+      "language": "da",
+      "source": "Catalogue_Danish.json",
+      "pages": [
+        {
+          "page_number": 1,
+          "heading": "Catalogue Reference (Danish)",
+          "text": "See attached catalogue for product family context and specifications. (Danish catalogue included.)"
+        }
+      ],
+      "metadata": {
+        "attached_file": "Catalogue_Danish.json"
+      }
+    },
+    {
+      "doc_id": "catalogue-en-basic-ca",
+      "doc_type": "catalogue",
+      "language": "en",
+      "source": "Catalogue_English.json",
+      "pages": [
+        {
+          "page_number": 1,
+          "heading": "Catalogue Reference (English)",
+          "text": "See attached catalogue for product family context and specifications. (English catalogue included.)"
+        }
+      ],
+      "metadata": {
+        "attached_file": "Catalogue_English.json"
+      }
+    },
+    {
+      "doc_id": "catalogue-fr-basic-ca",
+      "doc_type": "catalogue",
+      "language": "fr",
+      "source": "Catalogue_French.json",
+      "pages": [
+        {
+          "page_number": 1,
+          "heading": "Catalogue Reference (French)",
+          "text": "See attached catalogue for product family context and specifications. (French catalogue included.)"
+        }
+      ],
+      "metadata": {
+        "attached_file": "Catalogue_French.json"
+      }
+    },
+    {
+      "doc_id": "catalogue-de-basic-ca",
+      "doc_type": "catalogue",
+      "language": "de",
+      "source": "Catalogue_German.json",
+      "pages": [
+        {
+          "page_number": 1,
+          "heading": "Catalogue Reference (German)",
+          "text": "See attached catalogue for product family context and specifications. (German catalogue included.)"
+        }
+      ],
+      "metadata": {
+        "attached_file": "Catalogue_German.json"
+      }
+    },
+    {
+      "doc_id": "catalogue-it-basic-ca",
+      "doc_type": "catalogue",
+      "language": "it",
+      "source": "Catalogue_Italian.json",
+      "pages": [
+        {
+          "page_number": 1,
+          "heading": "Catalogue Reference (Italian)",
+          "text": "See attached catalogue for product family context and specifications. (Italian catalogue included.)"
+        }
+      ],
+      "metadata": {
+        "attached_file": "Catalogue_Italian.json"
+      }
+    },
+    {
+      "doc_id": "catalogue-es-basic-ca",
+      "doc_type": "catalogue",
+      "language": "es",
+      "source": "Catalogue_Spanish.json",
+      "pages": [
+        {
+          "page_number": 1,
+          "heading": "Catalogue Reference (Spanish)",
+          "text": "See attached catalogue for product family context and specifications. (Spanish catalogue included.)"
+        }
+      ],
+      "metadata": {
+        "attached_file": "Catalogue_Spanish.json"
+      }
+    }
+  ],
+  "chunks": [
+    {
+      "chunk_id": "c-basic-cabl-overview-0001",
+      "doc_id": "proddetail-en-basic-ca",
+      "language": "en",
+      "doc_type": "product_details",
+      "page_number": 1,
+      "heading": "Overview",
+      "chunk_index": 0,
+      "text": "The Basic Cable Tracker works for cables above the ground.",
+      "token_count": 14,
+      "metadata": {
+        "product_id": "basic-cable-tracker",
+        "source": "sourceFile.txt"
+      }
+    },
+    {
+      "chunk_id": "c-basic-cabl-desc-0002",
+      "doc_id": "proddetail-en-basic-ca",
+      "language": "en",
+      "doc_type": "product_details",
+      "page_number": 1,
+      "heading": "Description",
+      "chunk_index": 1,
+      "text": "The Basic Cable Tracker works for cables above the ground. This tracker can locate up to 10 km of cable. You need to hold the tracker on the wire, for it to detect the cable. The tracker can also be used, if you dig up the buried cable. However, we recommend using our Pro tracker for cables underground.",
+      "token_count": 76,
+      "metadata": {
+        "product_id": "basic-cable-tracker",
+        "source": "sourceFile.txt"
+      }
+    }
+  ],
+  "provenance": {
+    "ingested_at": "2026-01-01T14:21:23Z",
+    "ingested_by": "document-processor-v1.0",
+    "raw_files": [
+      "sourceFile.txt",
+      "Catalogue_Danish.json",
+      "Catalogue_English.json",
+      "Catalogue_French.json",
+      "Catalogue_German.json",
+      "Catalogue_Italian.json",
+      "Catalogue_Spanish.json"
+    ]
+  }
+}

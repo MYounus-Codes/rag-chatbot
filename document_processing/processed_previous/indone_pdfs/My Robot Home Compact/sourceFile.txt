@@ -1,0 +1,40 @@
+Product info
+
+title:
+My Robot Home Compact
+
+Description/Information/Details:
+AM ROBOTS’s famous Highline garage in a smaller and compact version for all medium and small-size robots.
+The door runs with a mechanical function and doesn’t demand a timer or electrical installation.
+MY ROBOT HOME COMPACT comes with a Name tag, solar Light, windows and doors with white panels to give it a high-class look. 
+The garage protects the robot and prolongs its lifespan of the robot by several years.
+About:
+Solar Light
+RTK-Ready
+Fits Medium and Small robot mowers
+A mechanical door that opens and closes automatically
+Fast-growing wood
+2-Year warranty
+Protects the robot all year
+Access to the robot from the top
+Size of the garage: 76cm x 86cm x 52,5cm
+Size of the garage door: 55cm x 31cm
+SKU: 38981089 
+Category: Robot Mower Garages 
+Tags: Garage, My robot home, My robot home compact
+
+Description
+Robot & Garage Overview –  Click here
+Paint: Water-based paint, Pantone 421C
+Please contact us if you are in doubt about which models fit in this garage, or see the dimensions of the door above.
+We suggest giving the garage a coat of paint or oil, 2-3 times during a 5-7 year time period (lifespan of the robot), to maintain the quality look of the garage. It depends on the climate how much maintenance is needed.
+
+Additional information
+Weight	5 kg
+
+
+Catalogues are in this directory:
+document_processing\input_pdfs\My Robot Home Compact\catalogues
+
+All above files, data, information to be used for:
+document_processing\input_pdfs\My Robot Home Compact\My Robot Home Compact.json

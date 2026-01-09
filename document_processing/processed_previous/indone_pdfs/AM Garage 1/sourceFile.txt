@@ -1,0 +1,29 @@
+Product info
+
+title:
+AM Garage 1
+
+Description:
+Our medium-sized AM Garage 1 comes with a tinted roof, for extra sun protection.
+Fits all robots up to 5.000m2
+RTK-Ready
+Easy to assemble
+Tinted roof
+High-quality stainless steel frame
+Great value for money
+Maintenance-free for long
+SKU: N/A Category: Robot Mower Garages
+
+Additional information
+Weight	N/A
+Dimensions	N/A
+Size	
+Medium, Large
+
+
+Catalogues are in this directory:
+document_processing\input_pdfs\AM Garage 1\catalogues
+
+
+All above files, data, information to be used for:
+document_processing\input_pdfs\AM Garage 1\AM Garage 1.json

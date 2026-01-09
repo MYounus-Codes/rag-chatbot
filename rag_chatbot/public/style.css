@@ -1,0 +1,112 @@
+/* 
+ * AM ROBOTS Support - Custom Styles
+ * Enhanced UI for centered, modern chat experience
+ */
+
+/* Center the welcome message */
+#welcome-screen {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+/* Style the readme content */
+.step-content {
+    text-align: center;
+}
+
+/* Enhance starter buttons */
+.MuiGrid-root .MuiCard-root {
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+    border-radius: 12px;
+    cursor: pointer;
+}
+
+.MuiGrid-root .MuiCard-root:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+}
+
+/* Center input box container */
+#chat-input {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+/* Smooth message animations */
+.message {
+    animation: fadeIn 0.3s ease-in;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Typography improvements */
+h1 {
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+}
+
+/* Link styling */
+a {
+    color: #2563eb;
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+a:hover {
+    color: #1d4ed8;
+    text-decoration: underline;
+}
+
+/* Code blocks */
+pre {
+    background-color: #f5f5f5;
+    border-radius: 8px;
+    padding: 1rem;
+    overflow-x: auto;
+}
+
+code {
+    font-family: 'Fira Code', 'Courier New', monospace;
+    font-size: 0.9em;
+}
+
+/* Bullet points styling */
+ul {
+    text-align: left;
+    max-width: 600px;
+    margin: 1rem auto;
+}
+
+li {
+    margin: 0.5rem 0;
+    line-height: 1.6;
+}
+
+/* Loading indicator */
+.loading-indicator {
+    animation: pulse 1.5s ease-in-out infinite;
+}
+
+@keyframes pulse {
+    0%, 100% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0.5;
+    }
+}

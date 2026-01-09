@@ -1,0 +1,219 @@
+{
+  "schema_version": "1.0",
+  "product": {
+    "product_id": "am-garage-1",
+    "slug": "am-garage-1",
+    "title": "AM Garage 1",
+    "short_description": "Our medium-sized AM Garage 1 comes with a tinted roof, for extra sun protection.",
+    "long_description": "Our medium-sized AM Garage 1 comes with a tinted roof, for extra sun protection. Fits all robots up to 5.000m2 RTK-Ready Easy to assemble Tinted roof High-quality stainless steel frame Great value for money Maintenance-free for long",
+    "brand": "AM ROBOTS",
+    "product_type": "garage",
+    "categories": [],
+    "tags": [
+      "Garage"
+    ],
+    "identifiers": {
+      "sku": "N/A Category: Robot Mower Garages",
+      "manufacturer": "AM ROBOTS"
+    },
+    "specs": {
+      "notes": "See catalogue for detailed specifications."
+    },
+    "variants": [],
+    "created_at": "2026-01-01T14:18:29Z",
+    "updated_at": "2026-01-01T14:18:29Z",
+    "source_files": [
+      {
+        "type": "product_details",
+        "filename": "sourceFile.txt",
+        "language": "en"
+      },
+      {
+        "type": "catalogue",
+        "filename": "Catalogue_Danish.json",
+        "language": "da"
+      },
+      {
+        "type": "catalogue",
+        "filename": "Catalogue_English.json",
+        "language": "en"
+      },
+      {
+        "type": "catalogue",
+        "filename": "Catalogue_French.json",
+        "language": "fr"
+      },
+      {
+        "type": "catalogue",
+        "filename": "Catalogue_German.json",
+        "language": "de"
+      },
+      {
+        "type": "catalogue",
+        "filename": "Catalogue_Italian.json",
+        "language": "it"
+      },
+      {
+        "type": "catalogue",
+        "filename": "Catalogue_Spanish.json",
+        "language": "es"
+      }
+    ]
+  },
+  "documents": [
+    {
+      "doc_id": "proddetail-en-am-garag",
+      "doc_type": "product_details",
+      "language": "en",
+      "source": "sourceFile.txt",
+      "pages": [
+        {
+          "page_number": 1,
+          "heading": "Product Overview",
+          "text": "Our medium-sized AM Garage 1 comes with a tinted roof, for extra sun protection. Fits all robots up to 5.000m2 RTK-Ready Easy to assemble Tinted roof High-quality stainless steel frame Great value for money Maintenance-free for long"
+        }
+      ]
+    },
+    {
+      "doc_id": "catalogue-da-am-garag",
+      "doc_type": "catalogue",
+      "language": "da",
+      "source": "Catalogue_Danish.json",
+      "pages": [
+        {
+          "page_number": 1,
+          "heading": "Catalogue Reference (Danish)",
+          "text": "See attached catalogue for product family context and specifications. (Danish catalogue included.)"
+        }
+      ],
+      "metadata": {
+        "attached_file": "Catalogue_Danish.json"
+      }
+    },
+    {
+      "doc_id": "catalogue-en-am-garag",
+      "doc_type": "catalogue",
+      "language": "en",
+      "source": "Catalogue_English.json",
+      "pages": [
+        {
+          "page_number": 1,
+          "heading": "Catalogue Reference (English)",
+          "text": "See attached catalogue for product family context and specifications. (English catalogue included.)"
+        }
+      ],
+      "metadata": {
+        "attached_file": "Catalogue_English.json"
+      }
+    },
+    {
+      "doc_id": "catalogue-fr-am-garag",
+      "doc_type": "catalogue",
+      "language": "fr",
+      "source": "Catalogue_French.json",
+      "pages": [
+        {
+          "page_number": 1,
+          "heading": "Catalogue Reference (French)",
+          "text": "See attached catalogue for product family context and specifications. (French catalogue included.)"
+        }
+      ],
+      "metadata": {
+        "attached_file": "Catalogue_French.json"
+      }
+    },
+    {
+      "doc_id": "catalogue-de-am-garag",
+      "doc_type": "catalogue",
+      "language": "de",
+      "source": "Catalogue_German.json",
+      "pages": [
+        {
+          "page_number": 1,
+          "heading": "Catalogue Reference (German)",
+          "text": "See attached catalogue for product family context and specifications. (German catalogue included.)"
+        }
+      ],
+      "metadata": {
+        "attached_file": "Catalogue_German.json"
+      }
+    },
+    {
+      "doc_id": "catalogue-it-am-garag",
+      "doc_type": "catalogue",
+      "language": "it",
+      "source": "Catalogue_Italian.json",
+      "pages": [
+        {
+          "page_number": 1,
+          "heading": "Catalogue Reference (Italian)",
+          "text": "See attached catalogue for product family context and specifications. (Italian catalogue included.)"
+        }
+      ],
+      "metadata": {
+        "attached_file": "Catalogue_Italian.json"
+      }
+    },
+    {
+      "doc_id": "catalogue-es-am-garag",
+      "doc_type": "catalogue",
+      "language": "es",
+      "source": "Catalogue_Spanish.json",
+      "pages": [
+        {
+          "page_number": 1,
+          "heading": "Catalogue Reference (Spanish)",
+          "text": "See attached catalogue for product family context and specifications. (Spanish catalogue included.)"
+        }
+      ],
+      "metadata": {
+        "attached_file": "Catalogue_Spanish.json"
+      }
+    }
+  ],
+  "chunks": [
+    {
+      "chunk_id": "c-am-garage--overview-0001",
+      "doc_id": "proddetail-en-am-garag",
+      "language": "en",
+      "doc_type": "product_details",
+      "page_number": 1,
+      "heading": "Overview",
+      "chunk_index": 0,
+      "text": "Our medium-sized AM Garage 1 comes with a tinted roof, for extra sun protection.",
+      "token_count": 20,
+      "metadata": {
+        "product_id": "am-garage-1",
+        "source": "sourceFile.txt"
+      }
+    },
+    {
+      "chunk_id": "c-am-garage--desc-0002",
+      "doc_id": "proddetail-en-am-garag",
+      "language": "en",
+      "doc_type": "product_details",
+      "page_number": 1,
+      "heading": "Description",
+      "chunk_index": 1,
+      "text": "Our medium-sized AM Garage 1 comes with a tinted roof, for extra sun protection. Fits all robots up to 5.000m2 RTK-Ready Easy to assemble Tinted roof High-quality stainless steel frame Great value for money Maintenance-free for long",
+      "token_count": 58,
+      "metadata": {
+        "product_id": "am-garage-1",
+        "source": "sourceFile.txt"
+      }
+    }
+  ],
+  "provenance": {
+    "ingested_at": "2026-01-01T14:18:29Z",
+    "ingested_by": "document-processor-v1.0",
+    "raw_files": [
+      "sourceFile.txt",
+      "Catalogue_Danish.json",
+      "Catalogue_English.json",
+      "Catalogue_French.json",
+      "Catalogue_German.json",
+      "Catalogue_Italian.json",
+      "Catalogue_Spanish.json"
+    ]
+  }
+}

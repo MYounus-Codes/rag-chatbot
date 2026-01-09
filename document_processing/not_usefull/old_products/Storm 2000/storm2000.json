@@ -1,0 +1,248 @@
+{
+  "schema_version": "1.0",
+  "product": {
+    "product_id": "storm-001",
+    "slug": "storm",
+    "title": "STORM 2000 | 4000 | 6000",
+    "short_description": "STORM is a self-reliant intelligent robot mower using LDI (3D LiDAR + Direct AI + Imaging). No RTK, boundary cable, poles or external connections required.",
+    "long_description": "STORM is ideal for private gardens and larger green areas. It uses 3D laser mapping (LDI), an onboard Direct-AI processor and imaging to navigate, avoid obstacles (including moving objects) and mow without external guidance systems. Supports unlimited cutting zones and configurable no-go zones via the app.",
+    "brand": "AM ROBOTS",
+    "product_type": "robot-mower",
+    "tags": ["LDI", "LiDAR", "autonomous", "robot-mower", "STORM"],
+    "specs": {
+      "weight_kg": 22.7,
+      "dimensions_cm": "48x38x26",
+      "cutting_width_cm": 28,
+      "cutting_height_cm_min": 3.0,
+      "cutting_height_cm_max": 8.5,
+      "max_slope_pct": 45,
+      "warranty_years": 2,
+      "notes": "Self-reliant LDI navigation; unlimited zones; no boundary cables required."
+    },
+    "variants": [
+      {
+        "sku": "STORM-2000",
+        "model_name": "STORM 2000",
+        "attributes": {
+          "max_mowing_area_m2": 2000
+        }
+      },
+      {
+        "sku": "STORM-4000",
+        "model_name": "STORM 4000",
+        "attributes": {
+          "max_mowing_area_m2": 4000
+        }
+      },
+      {
+        "sku": "STORM-6000",
+        "model_name": "STORM 6000",
+        "attributes": {
+          "max_mowing_area_m2": 6000
+        }
+      }
+    ],
+    "identifiers": {
+      "manufacturer": "AM ROBOTS"
+    },
+    "created_at": "2025-12-29T04:00:00Z",
+    "updated_at": "2025-12-29T04:00:00Z",
+    "source_files": [
+      {
+        "type": "product_details",
+        "filename": "product_1__details.txt",
+        "language": "en"
+      },
+      {
+        "type": "manual",
+        "filename": "Manual_English.json",
+        "language": "en"
+      },
+      {
+        "type": "catalogue",
+        "filename": "Catalogue_English.json",
+        "language": "en"
+      }
+    ]
+  },
+
+  "documents": [
+    {
+      "doc_id": "manual-en-001",
+      "doc_type": "manual",
+      "language": "en",
+      "source": "Manual_English.json",
+      "pages": [
+        {
+          "page_number": 1,
+          "heading": "User Manual - Overview",
+          "text": "USER MANUAL STORM. Before using the product, read the manual carefully to understand the guidance. STORM is an intelligent electric-driven lawn mower based on LiDAR SLAM navigation technology. The mower can automatically help you mow the lawn without any perimeter wires. You can customize lawn care using the app and remotely operate and monitor mower operation through the app."
+        },
+        {
+          "page_number": 2,
+          "heading": "Preface & Safety",
+          "text": "PREFACE — Safety Instructions. Read general safety rules, precautions for installation, use, storage and handling. Keep packaging for winter storage or shipment for repair. Follow local regulations for battery handling and disposal. Avoid disassembly and prolonged direct sunlight exposure."
+        },
+        {
+          "page_number": 20,
+          "heading": "Using STORM - App & Setup",
+          "text": "4.1 Getting the App — Instructions for obtaining the app and account setup. 4.2 Adding Devices — Steps for adding the mower to the app and initial pairing. 4.3 Map Creation — During initial runs, STORM will map the lawn area via LiDAR. Create maps, add/delete/modify areas, and set no-go zones. Keep the phone and mower within Bluetooth range during mapping and avoid large obstacles (trees, walls) that block line-of-sight."
+        },
+        {
+          "page_number": 32,
+          "heading": "Daily Mowing and Functions",
+          "text": "4.4 Daily Mowing — Schedule mowing tasks via the app. Set mowing height and preset modes. Rain sensor default prevents mowing on rainy days (settings adjustable). 4.5 Other Functions — Device sharing and permission management: the initially bound account is the administrator and can share permissions with other users."
+        },
+        {
+          "page_number": 45,
+          "heading": "Acousto-optic Guidance & Alerts",
+          "text": "5.1 Lighting Guidance — Built-in lighting indicates status. 5.2 Sound Reminder — Mower provides audible alerts for important status messages. Follow on-screen or manual instructions to resolve alarms."
+        },
+        {
+          "page_number": 56,
+          "heading": "Maintenance",
+          "text": "6.1 Frequency of Maintenance — Regular checks recommended. 6.2 Lawn Mower Cleaning — Clean under the mower, remove debris, inspect blades and screws. 6.3 Replacement of Consumables — Replace worn blades and batteries with manufacturer-approved parts. Do not reuse aging screws. Charging station and battery safety: use household power and protect the adapter from moisture."
+        },
+        {
+          "page_number": 60,
+          "heading": "Troubleshooting",
+          "text": "Troubleshooting — Common issues: mower stuck due to long grass or mud, wheels trapped, Bluetooth/connection issues, charging station misplacement. If emergency stop button does not work, do not use the device until repaired. For mapping disconnections, adjust phone distance and remove obstacles between phone and mower."
+        },
+        {
+          "page_number": 7,
+          "heading": "Specifications (extracted)",
+          "text": "SPECIFICATIONS: Model family STORM 2000/4000/6000. Max mowing area: 2000 m2 / 4000 m2 / 6000 m2 respectively. Cutting width: 28 cm. Cutting height: 3.0 - 8.5 cm. Max slope: 45%. Weight (unit): 22.7 kg. Dimensions: 48 x 38 x 26 cm. Charging station and battery specifications available in full manual."
+        }
+      ]
+    },
+
+    {
+      "doc_id": "catalogue-en-001",
+      "doc_type": "catalogue",
+      "language": "en",
+      "source": "Catalogue_English.json",
+      "pages": [
+        {
+          "page_number": 1,
+          "heading": "Catalogue - Overview",
+          "text": "CATALOGUE 2025 - 2026 — Product assortment includes Garages (Wooden, Aluminium, AM Hybrid Grass), Cables (Premium, Standard, Basic), Cable Machines, Installation kits, Repair kits, Robot ReDirect, Blades, Tools, Connectors, Pegs, Storage and Power products."
+        },
+        {
+          "page_number": 7,
+          "heading": "Aluminium Garages",
+          "text": "AM Garage 1 — Medium SKU: 38501696; Large SKU: 38501697. AM Garage 1 features a tinted roof for sun protection, a see-through black shaded roof and quick installation. Medium size: 60 cm x 42 cm x 80 cm. Large size: 77 cm x 45.5 cm x 103 cm."
+        },
+        {
+          "page_number": 11,
+          "heading": "AM Hybrid Grass",
+          "text": "AM Hybrid Grass — sizes: 80 x 80 cm, 2 x 2 m, 20 x 1 m. Protects lawn, invisible after 3-4 weeks, provides better grip for robots near docking stations."
+        },
+        {
+          "page_number": 12,
+          "heading": "Cables - Premium / Standard / Basic",
+          "text": "Premium Safety Cable 3.8 mm — 3-layer protection, rodent repellent, metal mesh, 10-year warranty. Standard Cable 3.4 mm — flexible, printed meter markings. Basic Cable 2.7 mm — for above-ground installations. Multiple spool lengths available per type."
+        },
+        {
+          "page_number": 14,
+          "heading": "Cable Machines & Installation Kits",
+          "text": "Cable machines: Terra 800 (fuel-driven), PWM 600MH (Honda engine), PWM 600MH-LI (battery-driven). Installation kits: X-Small to X-Large containing cables, bio pegs, scotchlok connectors and docking station connectors per kit size."
+        },
+        {
+          "page_number": 18,
+          "heading": "Blades & Parts",
+          "text": "Blades for various brands (Husqvarna, Stihl, Robomow, Ambrogio, STIGA, LUBA, Belrobotics, AL-KO, Honda, Worx, Parkside, Bosch) with SKUs and pack sizes listed in the catalogue."
+        }
+      ]
+    }
+  ],
+
+  "chunks": [
+    {
+      "chunk_id": "c-overview-0001",
+      "doc_id": "manual-en-001",
+      "language": "en",
+      "doc_type": "manual",
+      "page_number": 1,
+      "heading": "User Manual - Overview",
+      "chunk_index": 0,
+      "text": "STORM is an intelligent LiDAR SLAM-based mower. Read manual before use. App control and remote monitoring available. No perimeter wires required.",
+      "token_count": 56,
+      "metadata": {
+        "product_id": "storm-001",
+        "source": "Manual_English.json"
+      }
+    },
+    {
+      "chunk_id": "c-specs-0002",
+      "doc_id": "manual-en-001",
+      "language": "en",
+      "doc_type": "manual",
+      "page_number": 7,
+      "heading": "Specifications (extracted)",
+      "chunk_index": 1,
+      "text": "Model STORM 2000 | 4000 | 6000 — Max mowing area: 2000 / 4000 / 6000 m2. Cutting width: 28 cm. Cutting height: 3.0 - 8.5 cm. Weight: 22.7 kg. Dimensions: 48 x 38 x 26 cm. Max slope: 45%.",
+      "token_count": 78,
+      "metadata": {
+        "product_id": "storm-001",
+        "skus": ["STORM-2000", "STORM-4000", "STORM-6000"],
+        "source": "product_1__details.txt"
+      }
+    },
+    {
+      "chunk_id": "c-map-0003",
+      "doc_id": "manual-en-001",
+      "language": "en",
+      "doc_type": "manual",
+      "page_number": 20,
+      "heading": "Using STORM - Map Creation",
+      "chunk_index": 2,
+      "text": "Map creation: run initial mapping using LiDAR; keep phone and mower in Bluetooth range; avoid large obstacles during mapping; use app to define no-go zones and special areas. Map management supports add/modify/delete areas.",
+      "token_count": 72,
+      "metadata": {
+        "product_id": "storm-001",
+        "source": "Manual_English.json"
+      }
+    },
+    {
+      "chunk_id": "c-trouble-0004",
+      "doc_id": "manual-en-001",
+      "language": "en",
+      "doc_type": "manual",
+      "page_number": 60,
+      "heading": "Troubleshooting",
+      "chunk_index": 3,
+      "text": "Troubleshooting: mower stuck in long grass or mud, wheels trapped; ensure charge station placement and recharge path comply with guidelines; if STOP button fails, do not operate.",
+      "token_count": 59,
+      "metadata": {
+        "product_id": "storm-001",
+        "source": "Manual_English.json"
+      }
+    },
+    {
+      "chunk_id": "c-catalogue-garage-0005",
+      "doc_id": "catalogue-en-001",
+      "language": "en",
+      "doc_type": "catalogue",
+      "page_number": 7,
+      "heading": "Aluminium Garages - AM Garage 1",
+      "chunk_index": 0,
+      "text": "AM Garage 1 — Medium SKU: 38501696; Large SKU: 38501697. Medium size: 60 x 42 x 80 cm. Large size: 77 x 45.5 x 103 cm. Tinted roof and quick installation.",
+      "token_count": 54,
+      "metadata": {
+        "product_id": "storm-001",
+        "related_skus": ["38501696", "38501697"],
+        "source": "Catalogue_English.json"
+      }
+    }
+  ],
+
+  "provenance": {
+    "ingested_at": "2025-12-29T04:00:00Z",
+    "ingested_by": "assistant-sync",
+    "raw_files": [
+      "product_1__details.txt",
+      "Manual_English.json",
+      "Catalogue_English.json"
+    ]
+  }
+}

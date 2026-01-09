@@ -1,0 +1,225 @@
+{
+  "schema_version": "1.0",
+  "product": {
+    "product_id": "luba-mammotion-reversible-blades",
+    "slug": "luba-mammotion-reversible-blades",
+    "title": "LUBA Mammotion Reversible Blades",
+    "short_description": "The LUBA Mammotion reversible blades are made for the LUBA robot mowers engineered with the highest concern for safety to prevent breakage and thereby blade debris from being scattered on the lawn.",
+    "long_description": "The LUBA Mammotion reversible blades are made for the LUBA robot mowers engineered with the highest concern for safety to prevent breakage and thereby blade debris from being scattered on the lawn. Made from stainless steel, the blades provide a longer cutting lifespan, reducing the frequency of blade replacements for the owner. These blades come in packs of 16 pcs, 32 pcs, or 300 pcs for service centers.",
+    "brand": "AM ROBOTS",
+    "product_type": "blade",
+    "categories": [
+      "LUBA",
+      "Robot Mower Blades"
+    ],
+    "tags": [
+      "Blades for Luba",
+      "LUBA",
+      "Luba mammotion",
+      "Mammotion"
+    ],
+    "identifiers": {
+      "sku": "N/A",
+      "manufacturer": "AM ROBOTS"
+    },
+    "specs": {
+      "notes": "See catalogue for detailed specifications."
+    },
+    "variants": [],
+    "created_at": "2026-01-01T14:22:45Z",
+    "updated_at": "2026-01-01T14:22:45Z",
+    "source_files": [
+      {
+        "type": "product_details",
+        "filename": "sourceFile.txt",
+        "language": "en"
+      },
+      {
+        "type": "catalogue",
+        "filename": "Catalogue_Danish.json",
+        "language": "da"
+      },
+      {
+        "type": "catalogue",
+        "filename": "Catalogue_English.json",
+        "language": "en"
+      },
+      {
+        "type": "catalogue",
+        "filename": "Catalogue_French.json",
+        "language": "fr"
+      },
+      {
+        "type": "catalogue",
+        "filename": "Catalogue_German.json",
+        "language": "de"
+      },
+      {
+        "type": "catalogue",
+        "filename": "Catalogue_Italian.json",
+        "language": "it"
+      },
+      {
+        "type": "catalogue",
+        "filename": "Catalogue_Spanish.json",
+        "language": "es"
+      }
+    ]
+  },
+  "documents": [
+    {
+      "doc_id": "proddetail-en-luba-mam",
+      "doc_type": "product_details",
+      "language": "en",
+      "source": "sourceFile.txt",
+      "pages": [
+        {
+          "page_number": 1,
+          "heading": "Product Overview",
+          "text": "The LUBA Mammotion reversible blades are made for the LUBA robot mowers engineered with the highest concern for safety to prevent breakage and thereby blade debris from being scattered on the lawn. Made from stainless steel, the blades provide a longer cutting lifespan, reducing the frequency of blade replacements for the owner. These blades come in packs of 16 pcs, 32 pcs, or 300 pcs for service centers."
+        }
+      ]
+    },
+    {
+      "doc_id": "catalogue-da-luba-mam",
+      "doc_type": "catalogue",
+      "language": "da",
+      "source": "Catalogue_Danish.json",
+      "pages": [
+        {
+          "page_number": 1,
+          "heading": "Catalogue Reference (Danish)",
+          "text": "See attached catalogue for product family context and specifications. (Danish catalogue included.)"
+        }
+      ],
+      "metadata": {
+        "attached_file": "Catalogue_Danish.json"
+      }
+    },
+    {
+      "doc_id": "catalogue-en-luba-mam",
+      "doc_type": "catalogue",
+      "language": "en",
+      "source": "Catalogue_English.json",
+      "pages": [
+        {
+          "page_number": 1,
+          "heading": "Catalogue Reference (English)",
+          "text": "See attached catalogue for product family context and specifications. (English catalogue included.)"
+        }
+      ],
+      "metadata": {
+        "attached_file": "Catalogue_English.json"
+      }
+    },
+    {
+      "doc_id": "catalogue-fr-luba-mam",
+      "doc_type": "catalogue",
+      "language": "fr",
+      "source": "Catalogue_French.json",
+      "pages": [
+        {
+          "page_number": 1,
+          "heading": "Catalogue Reference (French)",
+          "text": "See attached catalogue for product family context and specifications. (French catalogue included.)"
+        }
+      ],
+      "metadata": {
+        "attached_file": "Catalogue_French.json"
+      }
+    },
+    {
+      "doc_id": "catalogue-de-luba-mam",
+      "doc_type": "catalogue",
+      "language": "de",
+      "source": "Catalogue_German.json",
+      "pages": [
+        {
+          "page_number": 1,
+          "heading": "Catalogue Reference (German)",
+          "text": "See attached catalogue for product family context and specifications. (German catalogue included.)"
+        }
+      ],
+      "metadata": {
+        "attached_file": "Catalogue_German.json"
+      }
+    },
+    {
+      "doc_id": "catalogue-it-luba-mam",
+      "doc_type": "catalogue",
+      "language": "it",
+      "source": "Catalogue_Italian.json",
+      "pages": [
+        {
+          "page_number": 1,
+          "heading": "Catalogue Reference (Italian)",
+          "text": "See attached catalogue for product family context and specifications. (Italian catalogue included.)"
+        }
+      ],
+      "metadata": {
+        "attached_file": "Catalogue_Italian.json"
+      }
+    },
+    {
+      "doc_id": "catalogue-es-luba-mam",
+      "doc_type": "catalogue",
+      "language": "es",
+      "source": "Catalogue_Spanish.json",
+      "pages": [
+        {
+          "page_number": 1,
+          "heading": "Catalogue Reference (Spanish)",
+          "text": "See attached catalogue for product family context and specifications. (Spanish catalogue included.)"
+        }
+      ],
+      "metadata": {
+        "attached_file": "Catalogue_Spanish.json"
+      }
+    }
+  ],
+  "chunks": [
+    {
+      "chunk_id": "c-luba-mammo-overview-0001",
+      "doc_id": "proddetail-en-luba-mam",
+      "language": "en",
+      "doc_type": "product_details",
+      "page_number": 1,
+      "heading": "Overview",
+      "chunk_index": 0,
+      "text": "The LUBA Mammotion reversible blades are made for the LUBA robot mowers engineered with the highest concern for safety to prevent breakage and thereby blade debris from being scattered on the lawn.",
+      "token_count": 49,
+      "metadata": {
+        "product_id": "luba-mammotion-reversible-blades",
+        "source": "sourceFile.txt"
+      }
+    },
+    {
+      "chunk_id": "c-luba-mammo-desc-0002",
+      "doc_id": "proddetail-en-luba-mam",
+      "language": "en",
+      "doc_type": "product_details",
+      "page_number": 1,
+      "heading": "Description",
+      "chunk_index": 1,
+      "text": "The LUBA Mammotion reversible blades are made for the LUBA robot mowers engineered with the highest concern for safety to prevent breakage and thereby blade debris from being scattered on the lawn. Made from stainless steel, the blades provide a longer cutting lifespan, reducing the frequency of blade replacements for the owner. These blades come in packs of 16 pcs, 32 pcs, or 300 pcs for service centers.",
+      "token_count": 102,
+      "metadata": {
+        "product_id": "luba-mammotion-reversible-blades",
+        "source": "sourceFile.txt"
+      }
+    }
+  ],
+  "provenance": {
+    "ingested_at": "2026-01-01T14:22:45Z",
+    "ingested_by": "document-processor-v1.0",
+    "raw_files": [
+      "sourceFile.txt",
+      "Catalogue_Danish.json",
+      "Catalogue_English.json",
+      "Catalogue_French.json",
+      "Catalogue_German.json",
+      "Catalogue_Italian.json",
+      "Catalogue_Spanish.json"
+    ]
+  }
+}

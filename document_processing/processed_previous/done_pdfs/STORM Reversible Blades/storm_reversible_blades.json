@@ -1,0 +1,221 @@
+{
+  "schema_version": "1.0",
+  "product": {
+    "product_id": "storm-reversible-blades",
+    "slug": "storm-reversible-blades",
+    "title": "STORM Reversible Blades",
+    "short_description": "STORM Reversible Blades – Efficiency, Durability, Savings.",
+    "long_description": "STORM Reversible Blades – Efficiency, Durability, Savings. STORM Reversible Blades are an innovative blade solution for robotic lawn mowers, specifically designed for professional users and the B2B segment, where reliability and total cost of ownership are crucial. 4-Sided Use – Maximum Utilization Each blade is engineered with four cutting edges, allowing it to be flipped and reused up to four times before replacement is needed. This delivers up to 100% longer lifespan compared to traditional 2-sided blades – a significant saving on maintenance and replacement costs. Optimized Steel Alloy – Balanced Strength STORM Reversible Blades are made from a specially developed metal blend that perfectly balances hardness and flexibility: Impact resistant – will not break upon contact with stones. Shape stable – resists bending, ensuring consistent cutting and reducing the risk of uneven grass. Description Compatibility STORM Reversible Blades fit: STORM 2000, STORM 4000, and STORM 6000, plus newer models.",
+    "brand": "AM ROBOTS",
+    "product_type": "blade",
+    "categories": [],
+    "tags": [
+      "STORM",
+      "Reversible",
+      "Blades"
+    ],
+    "identifiers": {
+      "sku": null,
+      "manufacturer": "AM ROBOTS"
+    },
+    "specs": {
+      "notes": "See catalogue for detailed specifications."
+    },
+    "variants": [],
+    "created_at": "2026-01-01T14:25:37Z",
+    "updated_at": "2026-01-01T14:25:37Z",
+    "source_files": [
+      {
+        "type": "product_details",
+        "filename": "sourceFile.txt",
+        "language": "en"
+      },
+      {
+        "type": "catalogue",
+        "filename": "Catalogue_Danish.json",
+        "language": "da"
+      },
+      {
+        "type": "catalogue",
+        "filename": "Catalogue_English.json",
+        "language": "en"
+      },
+      {
+        "type": "catalogue",
+        "filename": "Catalogue_French.json",
+        "language": "fr"
+      },
+      {
+        "type": "catalogue",
+        "filename": "Catalogue_German.json",
+        "language": "de"
+      },
+      {
+        "type": "catalogue",
+        "filename": "Catalogue_Italian.json",
+        "language": "it"
+      },
+      {
+        "type": "catalogue",
+        "filename": "Catalogue_Spanish.json",
+        "language": "es"
+      }
+    ]
+  },
+  "documents": [
+    {
+      "doc_id": "proddetail-en-storm-re",
+      "doc_type": "product_details",
+      "language": "en",
+      "source": "sourceFile.txt",
+      "pages": [
+        {
+          "page_number": 1,
+          "heading": "Product Overview",
+          "text": "STORM Reversible Blades – Efficiency, Durability, Savings. STORM Reversible Blades are an innovative blade solution for robotic lawn mowers, specifically designed for professional users and the B2B segment, where reliability and total cost of ownership are crucial. 4-Sided Use – Maximum Utilization Each blade is engineered with four cutting edges, allowing it to be flipped and reused up to four times before replacement is needed. This delivers up to 100% longer lifespan compared to traditional 2-sided blades – a significant saving on maintenance and replacement costs. Optimized Steel Alloy – Balanced Strength STORM Reversible Blades are made from a specially developed metal blend that perfectly balances hardness and flexibility: Impact resistant – will not break upon contact with stones. Shape stable – resists bending, ensuring consistent cutting and reducing the risk of uneven grass. Description Compatibility STORM Reversible Blades fit: STORM 2000, STORM 4000, and STORM 6000, plus newer models."
+        }
+      ]
+    },
+    {
+      "doc_id": "catalogue-da-storm-re",
+      "doc_type": "catalogue",
+      "language": "da",
+      "source": "Catalogue_Danish.json",
+      "pages": [
+        {
+          "page_number": 1,
+          "heading": "Catalogue Reference (Danish)",
+          "text": "See attached catalogue for product family context and specifications. (Danish catalogue included.)"
+        }
+      ],
+      "metadata": {
+        "attached_file": "Catalogue_Danish.json"
+      }
+    },
+    {
+      "doc_id": "catalogue-en-storm-re",
+      "doc_type": "catalogue",
+      "language": "en",
+      "source": "Catalogue_English.json",
+      "pages": [
+        {
+          "page_number": 1,
+          "heading": "Catalogue Reference (English)",
+          "text": "See attached catalogue for product family context and specifications. (English catalogue included.)"
+        }
+      ],
+      "metadata": {
+        "attached_file": "Catalogue_English.json"
+      }
+    },
+    {
+      "doc_id": "catalogue-fr-storm-re",
+      "doc_type": "catalogue",
+      "language": "fr",
+      "source": "Catalogue_French.json",
+      "pages": [
+        {
+          "page_number": 1,
+          "heading": "Catalogue Reference (French)",
+          "text": "See attached catalogue for product family context and specifications. (French catalogue included.)"
+        }
+      ],
+      "metadata": {
+        "attached_file": "Catalogue_French.json"
+      }
+    },
+    {
+      "doc_id": "catalogue-de-storm-re",
+      "doc_type": "catalogue",
+      "language": "de",
+      "source": "Catalogue_German.json",
+      "pages": [
+        {
+          "page_number": 1,
+          "heading": "Catalogue Reference (German)",
+          "text": "See attached catalogue for product family context and specifications. (German catalogue included.)"
+        }
+      ],
+      "metadata": {
+        "attached_file": "Catalogue_German.json"
+      }
+    },
+    {
+      "doc_id": "catalogue-it-storm-re",
+      "doc_type": "catalogue",
+      "language": "it",
+      "source": "Catalogue_Italian.json",
+      "pages": [
+        {
+          "page_number": 1,
+          "heading": "Catalogue Reference (Italian)",
+          "text": "See attached catalogue for product family context and specifications. (Italian catalogue included.)"
+        }
+      ],
+      "metadata": {
+        "attached_file": "Catalogue_Italian.json"
+      }
+    },
+    {
+      "doc_id": "catalogue-es-storm-re",
+      "doc_type": "catalogue",
+      "language": "es",
+      "source": "Catalogue_Spanish.json",
+      "pages": [
+        {
+          "page_number": 1,
+          "heading": "Catalogue Reference (Spanish)",
+          "text": "See attached catalogue for product family context and specifications. (Spanish catalogue included.)"
+        }
+      ],
+      "metadata": {
+        "attached_file": "Catalogue_Spanish.json"
+      }
+    }
+  ],
+  "chunks": [
+    {
+      "chunk_id": "c-storm-reve-overview-0001",
+      "doc_id": "proddetail-en-storm-re",
+      "language": "en",
+      "doc_type": "product_details",
+      "page_number": 1,
+      "heading": "Overview",
+      "chunk_index": 0,
+      "text": "STORM Reversible Blades – Efficiency, Durability, Savings.",
+      "token_count": 14,
+      "metadata": {
+        "product_id": "storm-reversible-blades",
+        "source": "sourceFile.txt"
+      }
+    },
+    {
+      "chunk_id": "c-storm-reve-desc-0002",
+      "doc_id": "proddetail-en-storm-re",
+      "language": "en",
+      "doc_type": "product_details",
+      "page_number": 1,
+      "heading": "Description",
+      "chunk_index": 1,
+      "text": "STORM Reversible Blades – Efficiency, Durability, Savings. STORM Reversible Blades are an innovative blade solution for robotic lawn mowers, specifically designed for professional users and the B2B segment, where reliability and total cost of ownership are crucial. 4-Sided Use – Maximum Utilization Each blade is engineered with four cutting edges, allowing it to be flipped and reused up to four times before replacement is needed. This delivers up to 100% longer lifespan compared to traditional 2",
+      "token_count": 125,
+      "metadata": {
+        "product_id": "storm-reversible-blades",
+        "source": "sourceFile.txt"
+      }
+    }
+  ],
+  "provenance": {
+    "ingested_at": "2026-01-01T14:25:37Z",
+    "ingested_by": "document-processor-v1.0",
+    "raw_files": [
+      "sourceFile.txt",
+      "Catalogue_Danish.json",
+      "Catalogue_English.json",
+      "Catalogue_French.json",
+      "Catalogue_German.json",
+      "Catalogue_Italian.json",
+      "Catalogue_Spanish.json"
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "schema_version": "1.0",
+  "product": {
+    "product_id": "storm-2000-4000-6000",
+    "slug": "storm-2000-4000-6000",
+    "title": "STORM 2000 | 4000 | 6000",
+    "short_description": "STORM 2000, STORM 4000, and STORM 6000 work with revolutionary LDI Technology.",
+    "long_description": "STORM 2000, STORM 4000, and STORM 6000 work with revolutionary LDI Technology. STORM offers unlimited capabilities without any external sources like RTK, boundary cable, Poles, or 4G connections. STORM is ideal for both private gardens and larger green areas, and it’s the first self-reliant intelligent robot that makes lawn maintenance a worry-free task. THE LDI – Technology is a combined solution of 3D Laser Mapping, Direct AI processor, and Imaging for an obstacle avoidance system. This technology enables the robot to navigate around or under trees, bushes, or close to reinforced walls without physical boundaries. STORM is 100% self-reliant and can anticipate its route and avoid moving objects in its surroundings. What STORM can do: ✅ Moveable object avoidance, detects obstacles from 1 cm wide. ✅ Climb slopes of up to 45% ✅ 28 cm cutting width and cutting height from 3 cm to 8,5 cm. ✅ Unlimited cutting zones and no-go zones ✅ Effortless mowing everywhere without external signals What STORM doesn’t need: ❌ No RTK/GPS signal required ❌ No boundary cables ❌ No external technology ❌ No limitations for: Trees, brick/metal walls or indoor docking Specification schedule *AM ROBOTS reserves the right to approve dealers before the robot can be sent to the customers. Get connected with a dealer near you—reach out to us at: info@am-robots.com",
+    "brand": "AM ROBOTS",
+    "product_type": "accessory",
+    "categories": [
+      "Robot mowers"
+    ],
+    "tags": [
+      "Robotmower",
+      "STORM"
+    ],
+    "identifiers": {
+      "sku": "N/A",
+      "manufacturer": "AM ROBOTS"
+    },
+    "specs": {
+      "weight": "22,7 kg",
+      "dimensions": "48 × 38 × 26 cm"
+    },
+    "variants": [],
+    "created_at": "2026-01-01T16:05:20Z",
+    "updated_at": "2026-01-01T16:05:20Z",
+    "source_files": [
+      {
+        "type": "product_details",
+        "filename": "sourceFile.txt",
+        "language": "en"
+      },
+      {
+        "type": "catalogue",
+        "filename": "Catalogue_Danish.json",
+        "language": "da"
+      },
+      {
+        "type": "catalogue",
+        "filename": "Catalogue_English.json",
+        "language": "en"
+      },
+      {
+        "type": "catalogue",
+        "filename": "Catalogue_French.json",
+        "language": "fr"
+      },
+      {
+        "type": "catalogue",
+        "filename": "Catalogue_German.json",
+        "language": "de"
+      },
+      {
+        "type": "catalogue",
+        "filename": "Catalogue_Italian.json",
+        "language": "it"
+      },
+      {
+        "type": "catalogue",
+        "filename": "Catalogue_Spanish.json",
+        "language": "es"
+      }
+    ]
+  },
+  "documents": [
+    {
+      "doc_id": "proddetail-en-storm-20",
+      "doc_type": "product_details",
+      "language": "en",
+      "source": "sourceFile.txt",
+      "pages": [
+        {
+          "page_number": 1,
+          "heading": "Product Overview",
+          "text": "STORM 2000, STORM 4000, and STORM 6000 work with revolutionary LDI Technology. STORM offers unlimited capabilities without any external sources like RTK, boundary cable, Poles, or 4G connections. STORM is ideal for both private gardens and larger green areas, and it’s the first self-reliant intelligent robot that makes lawn maintenance a worry-free task. THE LDI – Technology is a combined solution of 3D Laser Mapping, Direct AI processor, and Imaging for an obstacle avoidance system. This technology enables the robot to navigate around or under trees, bushes, or close to reinforced walls without physical boundaries. STORM is 100% self-reliant and can anticipate its route and avoid moving objects in its surroundings. What STORM can do: ✅ Moveable object avoidance, detects obstacles from 1 cm wide. ✅ Climb slopes of up to 45% ✅ 28 cm cutting width and cutting height from 3 cm to 8,5 cm. ✅ Unlimited cutting zones and no-go zones ✅ Effortless mowing everywhere without external signals What STORM doesn’t need: ❌ No RTK/GPS signal required ❌ No boundary cables ❌ No external technology ❌ No limitations for: Trees, brick/metal walls or indoor docking Specification schedule *AM ROBOTS reserves the right to approve dealers before the robot can be sent to the customers. Get connected with a dealer near you—reach out to us at: info@am-robots.com"
+        }
+      ]
+    },
+    {
+      "doc_id": "catalogue-da-storm-20",
+      "doc_type": "catalogue",
+      "language": "da",
+      "source": "Catalogue_Danish.json",
+      "pages": [
+        {
+          "page_number": 1,
+          "heading": "Catalogue Reference (Danish)",
+          "text": "See attached catalogue for product family context and specifications. (Danish catalogue included.)"
+        }
+      ],
+      "metadata": {
+        "attached_file": "Catalogue_Danish.json"
+      }
+    },
+    {
+      "doc_id": "catalogue-en-storm-20",
+      "doc_type": "catalogue",
+      "language": "en",
+      "source": "Catalogue_English.json",
+      "pages": [
+        {
+          "page_number": 1,
+          "heading": "Catalogue Reference (English)",
+          "text": "See attached catalogue for product family context and specifications. (English catalogue included.)"
+        }
+      ],
+      "metadata": {
+        "attached_file": "Catalogue_English.json"
+      }
+    },
+    {
+      "doc_id": "catalogue-fr-storm-20",
+      "doc_type": "catalogue",
+      "language": "fr",
+      "source": "Catalogue_French.json",
+      "pages": [
+        {
+          "page_number": 1,
+          "heading": "Catalogue Reference (French)",
+          "text": "See attached catalogue for product family context and specifications. (French catalogue included.)"
+        }
+      ],
+      "metadata": {
+        "attached_file": "Catalogue_French.json"
+      }
+    },
+    {
+      "doc_id": "catalogue-de-storm-20",
+      "doc_type": "catalogue",
+      "language": "de",
+      "source": "Catalogue_German.json",
+      "pages": [
+        {
+          "page_number": 1,
+          "heading": "Catalogue Reference (German)",
+          "text": "See attached catalogue for product family context and specifications. (German catalogue included.)"
+        }
+      ],
+      "metadata": {
+        "attached_file": "Catalogue_German.json"
+      }
+    },
+    {
+      "doc_id": "catalogue-it-storm-20",
+      "doc_type": "catalogue",
+      "language": "it",
+      "source": "Catalogue_Italian.json",
+      "pages": [
+        {
+          "page_number": 1,
+          "heading": "Catalogue Reference (Italian)",
+          "text": "See attached catalogue for product family context and specifications. (Italian catalogue included.)"
+        }
+      ],
+      "metadata": {
+        "attached_file": "Catalogue_Italian.json"
+      }
+    },
+    {
+      "doc_id": "catalogue-es-storm-20",
+      "doc_type": "catalogue",
+      "language": "es",
+      "source": "Catalogue_Spanish.json",
+      "pages": [
+        {
+          "page_number": 1,
+          "heading": "Catalogue Reference (Spanish)",
+          "text": "See attached catalogue for product family context and specifications. (Spanish catalogue included.)"
+        }
+      ],
+      "metadata": {
+        "attached_file": "Catalogue_Spanish.json"
+      }
+    }
+  ],
+  "chunks": [
+    {
+      "chunk_id": "c-storm-2000-overview-0001",
+      "doc_id": "proddetail-en-storm-20",
+      "language": "en",
+      "doc_type": "product_details",
+      "page_number": 1,
+      "heading": "Overview",
+      "chunk_index": 0,
+      "text": "STORM 2000, STORM 4000, and STORM 6000 work with revolutionary LDI Technology.",
+      "token_count": 19,
+      "metadata": {
+        "product_id": "storm-2000-4000-6000",
+        "source": "sourceFile.txt"
+      }
+    },
+    {
+      "chunk_id": "c-storm-2000-desc-0002",
+      "doc_id": "proddetail-en-storm-20",
+      "language": "en",
+      "doc_type": "product_details",
+      "page_number": 1,
+      "heading": "Description",
+      "chunk_index": 1,
+      "text": "STORM 2000, STORM 4000, and STORM 6000 work with revolutionary LDI Technology. STORM offers unlimited capabilities without any external sources like RTK, boundary cable, Poles, or 4G connections. STORM is ideal for both private gardens and larger green areas, and it’s the first self-reliant intelligent robot that makes lawn maintenance a worry-free task. THE LDI – Technology is a combined solution of 3D Laser Mapping, Direct AI processor, and Imaging for an obstacle avoidance system. This techno",
+      "token_count": 125,
+      "metadata": {
+        "product_id": "storm-2000-4000-6000",
+        "source": "sourceFile.txt"
+      }
+    }
+  ],
+  "provenance": {
+    "ingested_at": "2026-01-01T16:05:20Z",
+    "ingested_by": "document-processor-v1.0",
+    "raw_files": [
+      "sourceFile.txt",
+      "Catalogue_Danish.json",
+      "Catalogue_English.json",
+      "Catalogue_French.json",
+      "Catalogue_German.json",
+      "Catalogue_Italian.json",
+      "Catalogue_Spanish.json"
+    ]
+  }
+}

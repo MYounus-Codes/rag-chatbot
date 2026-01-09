@@ -1,0 +1,201 @@
+{
+  "schema_version": "1.0",
+  "product": {
+    "product_id": "cable-3.4mm-green-std",
+    "slug": "3-4mm-green-standard-boundary-cable",
+    "title": "3,4 mm Green Standard Boundary Cable",
+    "short_description": "Premium 3.4 mm flexible boundary cable for all robot mower installations; meter-marked, insulated, available on wooden spools.",
+    "long_description": "The 3,4 mm green Robot mower boundary cable is a premium quality cable that works for ALL robot mower installations. The cable is insulated with hard plastic to protect the wire. It is still very flexible and can be laid with all cable machines. The bigger robot mower boundary cable comes in high-quality wooden spools to prevent breakage on impact. All wires are meter-marked throughout. Fits any robotic lawn mowers. Available on drums of 5 / 25 / 50 / 100 / 150 / 250 / 500 / 800 meters with a diameter of 3,4 mm.",
+    "brand": "AM ROBOTS",
+    "product_type": "boundary-cable",
+    "categories": ["Boundary Cable", "Standard Cable"],
+    "tags": ["3.4", "3.4mm cable", "Cable", "Green cable", "Standard cable"],
+    "identifiers": {
+      "sku": null,
+      "manufacturer": "AM ROBOTS"
+    },
+    "specs": {
+      "cable_diameter_mm": 3.4,
+      "inner_core_mm2": 1.5,
+      "insulation": "hard plastic (more stable than original plastic)",
+      "spool_material": "wood (high-quality wooden spools available for larger lengths)",
+      "meter_marked": true,
+      "weight": "N/A",
+      "dimensions": "N/A",
+      "notes": "Designed for professional and consumer robot-mower installations. Flexible for all cable machines."
+    },
+    "variants": [
+      {
+        "variant_id": "3.4mm-5m",
+        "length_m": 5,
+        "sku": null,
+        "attributes": {
+          "color": "green",
+          "diameter_mm": 3.4
+        }
+      },
+      {
+        "variant_id": "3.4mm-25m",
+        "length_m": 25,
+        "sku": null,
+        "attributes": {
+          "color": "green",
+          "diameter_mm": 3.4
+        }
+      },
+      {
+        "variant_id": "3.4mm-50m",
+        "length_m": 50,
+        "sku": null,
+        "attributes": {
+          "color": "green",
+          "diameter_mm": 3.4
+        }
+      },
+      {
+        "variant_id": "3.4mm-100m",
+        "length_m": 100,
+        "sku": null,
+        "attributes": {
+          "color": "green",
+          "diameter_mm": 3.4
+        }
+      },
+      {
+        "variant_id": "3.4mm-150m",
+        "length_m": 150,
+        "sku": null,
+        "attributes": {
+          "color": "green",
+          "diameter_mm": 3.4
+        }
+      },
+      {
+        "variant_id": "3.4mm-250m",
+        "length_m": 250,
+        "sku": null,
+        "attributes": {
+          "color": "green",
+          "diameter_mm": 3.4
+        }
+      },
+      {
+        "variant_id": "3.4mm-500m",
+        "length_m": 500,
+        "sku": null,
+        "attributes": {
+          "color": "green",
+          "diameter_mm": 3.4
+        }
+      },
+      {
+        "variant_id": "3.4mm-800m",
+        "length_m": 800,
+        "sku": null,
+        "attributes": {
+          "color": "green",
+          "diameter_mm": 3.4
+        }
+      }
+    ],
+    "created_at": "2025-12-31T10:00:00Z",
+    "updated_at": "2025-12-31T10:00:00Z",
+    "source_files": [
+      {
+        "type": "product_details",
+        "filename": "3,4 mm Green Standard Boundary Cable.json",
+        "language": "en"
+      },
+      {
+        "type": "catalogue",
+        "filename": "Catalogue_English.json",
+        "language": "en"
+      }
+    ]
+  },
+
+  "documents": [
+    {
+      "doc_id": "proddetail-en-0001",
+      "doc_type": "product_details",
+      "language": "en",
+      "source": "3,4 mm Green Standard Boundary Cable.json",
+      "pages": [
+        {
+          "page_number": 1,
+          "heading": "Introduction & Overview",
+          "text": "The 3,4 mm green Robot mower boundary cable is a premium quality cable that works for ALL robot mower installations. The cable is insulated with hard plastic to protect the wire while remaining flexible. Meter-marked for easy installation and measurement."
+        },
+        {
+          "page_number": 2,
+          "heading": "Description & Compatibility",
+          "text": "Thickness on the Robot mower boundary cable 3,4 mm with more stable insulation than the original plastic. Cable roll size: 5/25/50/100/150/250/500/800 Meters – the 800 meters will fit all professional cable machines. Used for installation of robot mowers, boundary loop, search cable, guide-wire and much more. Compatible with Husqvarna, Gardena, Robomow, Ambrogio, Stihl/Viking, Bosch, WorX and others."
+        },
+        {
+          "page_number": 3,
+          "heading": "Additional information",
+          "text": "Weight: N/A; Dimensions: N/A; Lengths available: 5m, 25m, 50m, 100m, 150m, 250m, 500m, 800m."
+        }
+      ]
+    },
+    {
+      "doc_id": "catalogue-ref-0001",
+      "doc_type": "catalogue",
+      "language": "en",
+      "source": "Catalogue_English.json",
+      "pages": [
+        {
+          "page_number": 1,
+          "heading": "Catalogue Reference",
+          "text": "See attached catalogue for broader product-family context, cable types (Premium 3.8mm, Standard 3.4mm, Basic 2.7mm), spool lengths, machines and compatible accessories."
+        }
+      ],
+      "metadata": {
+        "attached_file": "Catalogue_English.json"
+      }
+    }
+  ],
+
+  "chunks": [
+    {
+      "chunk_id": "c-cable-overview-0001",
+      "doc_id": "proddetail-en-0001",
+      "language": "en",
+      "doc_type": "product_details",
+      "page_number": 1,
+      "heading": "Overview",
+      "chunk_index": 0,
+      "text": "3.4 mm green standard cable — flexible, meter-marked, insulated with hard plastic; suitable for all robot mower installations.",
+      "token_count": 34,
+      "metadata": {
+        "product_id": "cable-3.4mm-green-std",
+        "source": "3,4 mm Green Standard Boundary Cable.json"
+      }
+    },
+    {
+      "chunk_id": "c-cable-specs-0002",
+      "doc_id": "proddetail-en-0001",
+      "language": "en",
+      "doc_type": "product_details",
+      "page_number": 2,
+      "heading": "Specs & Lengths",
+      "chunk_index": 1,
+      "text": "Available spool lengths: 5, 25, 50, 100, 150, 250, 500, 800 meters. Inner core 1.5 mm²; diameter 3.4 mm.",
+      "token_count": 28,
+      "metadata": {
+        "product_id": "cable-3.4mm-green-std",
+        "lengths_m": [5,25,50,100,150,250,500,800],
+        "source": "3,4 mm Green Standard Boundary Cable.json"
+      }
+    }
+  ],
+
+  "provenance": {
+    "ingested_at": "2025-12-31T10:00:00Z",
+    "ingested_by": "assistant-created",
+    "raw_files": [
+      "3,4 mm Green Standard Boundary Cable.json",
+      "Catalogue_English.json"
+    ]
+  }
+}

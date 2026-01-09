@@ -1,0 +1,28 @@
+Product info
+
+title:
+LUBA Mammotion Reversible Blades
+
+Description/Information/Details:
+The LUBA Mammotion reversible blades are made for the LUBA robot mowers engineered with the highest concern for safety to prevent breakage and thereby blade debris from being scattered on the lawn.
+Made from stainless steel, the blades provide a longer cutting lifespan, reducing the frequency of blade replacements for the owner.
+These blades come in packs of 16 pcs, 32 pcs, or 300 pcs for service centers.
+SKU: N/A 
+Categories: LUBA, Robot Mower Blades 
+Tags: Blades for Luba, LUBA, Luba mammotion, Mammotion
+
+Description
+Blades are coming in a semi-closed dispenser for extra safety and essential care of the users.
+Fits Luba 1AWD, Luba 2 AWD and Yuka Series robots.
+
+Additional information
+Weight	N/A
+Quantity	
+24 pcs, 48 pcs, 300 pcs
+
+
+Catalogues are in this directory:
+document_processing\input_pdfs\LUBA Mammotion Reversible Blades\catalogues
+
+All above files, data, information to be used for:
+document_processing\input_pdfs\LUBA Mammotion Reversible Blades\LUBA Mammotion Reversible Blades.json

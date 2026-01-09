@@ -1,0 +1,154 @@
+{
+  "brand": {
+    "name": "AM ROBOTS",
+    "website": "https://am-robots.com/",
+    "headquarters_country": "Denmark",
+    "founded_year": 2019,
+    "industry": "Robotic lawnmower equipment and accessories",
+    "description": "International manufacturer and distributor with headquarters in Denmark that designs, produces and sells innovative solutions for all aspects of the robotic lawnmower industry."
+  },
+  "positioning": {
+    "target_customers": [
+      "Professional robot mower dealers",
+      "Distributors in the robotic lawnmower market"
+    ],
+    "value_proposition": [
+      "High-quality and innovative products for all aspects of the robotic lawnmower industry",
+      "Cost-effective solutions developed in close cooperation with customers",
+      "Strong service and dedicated account management for dealers"
+    ],
+    "vision": "To be the preferred supplier for professionals in the international Robot Mower market.",
+    "mission": "To make and develop products of high quality and functionality that are cost-effective and highly innovative, in close cooperation with customers.",
+    "values": [
+      "Trust",
+      "Hard work",
+      "Service",
+      "Cooperation",
+      "Continuous improvement based on customer feedback"
+    ]
+  },
+  "products_and_services": {
+    "categories": [
+      "Boundary Wire",
+      "Trackers",
+      "Garages",
+      "Connectors",
+      "Blades",
+      "Cable Machines"
+    ],
+    "core_product_line": "Cable",
+    "catalogue": {
+      "description": "Annually updated catalogue with the full product assortment for dealers and distributors.",
+      "access": "Downloadable from the website after signup/within dealer area."
+    }
+  },
+  "commercial_terms": {
+    "shipping": {
+      "free_shipping_threshold_eur": 1500,
+      "free_shipping_regions": ["EU", "UK", "Norway", "Switzerland"],
+      "notes": "Free shipping excludes cable machines."
+    },
+    "credit_terms": {
+      "standard_credit_days": 14,
+      "conditions": [
+        "Credit validation required before approval.",
+        "Visa or Mastercard accepted if credit line cannot be extended."
+      ]
+    },
+    "price_policy": {
+      "price_match": true,
+      "price_match_details": "Will match competing offers and can go up to 10% below current price on quality products for dealers."
+    },
+    "dealer_model": {
+      "see_prices_requires_signup": true,
+      "cta": "Become an AM ROBOTS retailer",
+      "dealer_benefits": [
+        "Access to dealer pricing",
+        "Personal account manager",
+        "Free shipping above threshold",
+        "Credit terms and price guarantee"
+      ]
+    }
+  },
+  "service_and_support": {
+    "personal_manager": {
+      "description": "Each dealer has a personal account manager familiar with their market.",
+      "response_time": "Within 2 hours on all working days for calls or emails."
+    }
+  },
+  "company_team": {
+    "sales_and_marketing": [
+      {
+        "name": "Lars Meier",
+        "role": "Senior Key Account Manager",
+        "regions": ["Austria", "Switzerland", "Germany", "Scandinavia"],
+        "email": "lm@am-robots.com",
+        "phone": "+45 81 40 76 95"
+      },
+      {
+        "name": "Anna Crippa",
+        "role": "Key Account Manager",
+        "regions": ["Spain", "Italy", "France"],
+        "email": "anna@am-robots.com",
+        "phone": "+45 81 40 17 77"
+      },
+      {
+        "name": "Ronny Leite",
+        "role": "Key Account Manager",
+        "regions": ["Denmark", "Netherlands", "Portugal", "Brazil"],
+        "email": "rl@am-robots.com",
+        "phone": "+45 81 40 76 94"
+      },
+      {
+        "name": "Stina Andersson",
+        "role": "Key Account Manager",
+        "regions": ["UK", "Germany"],
+        "email": "stina@am-robots.com",
+        "phone": "+45 81 40 76 92"
+      },
+      {
+        "name": "Dima Orlov",
+        "role": "Senior Key Account Manager",
+        "regions": ["Baltics", "Finland", "Eastern Europe"],
+        "email": "do@am-robots.com",
+        "phone": "+45 81 40 35 32"
+      },
+      {
+        "name": "Emma Barcic",
+        "role": "Office Manager",
+        "regions": ["All Markets"],
+        "email": "eb@am-robots.com",
+        "phone": "+45 81 40 76 86"
+      },
+      {
+        "name": "Grace Tsatsaris",
+        "role": "Head of Marketing",
+        "regions": ["All Markets"],
+        "email": "gt@am-robots.com"
+      },
+      {
+        "name": "Alexandros Tsatsaris",
+        "role": "Marketing Manager",
+        "regions": ["All Markets"],
+        "email": "at@am-robots.com"
+      }
+    ]
+  },
+  "contact": {
+    "general_email": "info@am-robots.com",
+    "website": "https://am-robots.com/"
+  },
+  "faq_like_knowledge": {
+    "who_is_am_robots": "AM ROBOTS is a Danish manufacturer and distributor that supplies equipment and accessories for professional robotic lawnmower dealers internationally.",
+    "what_do_they_sell": "They sell boundary wire, trackers, garages, connectors, blades, cable machines and related accessories for robot mower installations.",
+    "how_to_become_retailer": "Dealers can sign up via the 'Become a retailer' flow on the website to see prices and access dealer benefits.",
+    "what_are_key_benefits_for_dealers": "Free shipping above 1,500 EUR in specified regions, 14 days credit (subject to approval), personal account manager, and a price guarantee with possible discounts up to 10% below competing offers."
+  },
+  "metadata": {
+    "last_crawled": "2026-01-01",
+    "source_pages": [
+      "https://am-robots.com/",
+      "https://am-robots.com/about-us/"
+    ]
+  }
+}

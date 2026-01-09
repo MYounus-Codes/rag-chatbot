@@ -1,0 +1,224 @@
+{
+  "schema_version": "1.0",
+  "product": {
+    "product_id": "am-portable-heat-gun",
+    "slug": "am-portable-heat-gun",
+    "title": "AM Portable Heat Gun",
+    "short_description": "If you want to be sure to bring the best tool for any repair or installation of a robot lawn mower, then you need our AM Portable Heat Gun.",
+    "long_description": "If you want to be sure to bring the best tool for any repair or installation of a robot lawn mower, then you need our AM Portable Heat Gun. This product has been designed to make repairs on boundary cable in any garden at any location. You can do over 30 repairs on one battery charge, and you are ensuring the best quality connection if you use our Pro Heat Shrink Kit for Repairs for connection of 2 wires. The heat gun runs on 18 volt power and the 4AH battery will help you provide a powerful and long lasting heat blow. The max temperature is 550°C. and is the perfect adjusted temperature for all heat shrink connectors. A must have for a Robotic Mower Installer Cordless performance with Lithium batteries Repair over 30 boundary wires on one charge Can be used to connect any Robot Mower cable You will quickly find that the AM Heat gun is your best friend in the outdoor field if you need to use heat shrink, heat sleeves, tin or electrical tape. Battery: 4AH lithium battery Power: 18v",
+    "brand": "AM ROBOTS",
+    "product_type": "tool",
+    "categories": [
+      "Heat Gun",
+      "Others"
+    ],
+    "tags": [
+      "Portable",
+      "Heat",
+      "Gun"
+    ],
+    "identifiers": {
+      "sku": "62691699",
+      "manufacturer": "AM ROBOTS"
+    },
+    "specs": {
+      "weight": "2 kg"
+    },
+    "variants": [],
+    "created_at": "2026-01-01T14:19:58Z",
+    "updated_at": "2026-01-01T14:19:58Z",
+    "source_files": [
+      {
+        "type": "product_details",
+        "filename": "sourceFile.txt",
+        "language": "en"
+      },
+      {
+        "type": "catalogue",
+        "filename": "Catalogue_Danish.json",
+        "language": "da"
+      },
+      {
+        "type": "catalogue",
+        "filename": "Catalogue_English.json",
+        "language": "en"
+      },
+      {
+        "type": "catalogue",
+        "filename": "Catalogue_French.json",
+        "language": "fr"
+      },
+      {
+        "type": "catalogue",
+        "filename": "Catalogue_German.json",
+        "language": "de"
+      },
+      {
+        "type": "catalogue",
+        "filename": "Catalogue_Italian.json",
+        "language": "it"
+      },
+      {
+        "type": "catalogue",
+        "filename": "Catalogue_Spanish.json",
+        "language": "es"
+      }
+    ]
+  },
+  "documents": [
+    {
+      "doc_id": "proddetail-en-am-porta",
+      "doc_type": "product_details",
+      "language": "en",
+      "source": "sourceFile.txt",
+      "pages": [
+        {
+          "page_number": 1,
+          "heading": "Product Overview",
+          "text": "If you want to be sure to bring the best tool for any repair or installation of a robot lawn mower, then you need our AM Portable Heat Gun. This product has been designed to make repairs on boundary cable in any garden at any location. You can do over 30 repairs on one battery charge, and you are ensuring the best quality connection if you use our Pro Heat Shrink Kit for Repairs for connection of 2 wires. The heat gun runs on 18 volt power and the 4AH battery will help you provide a powerful and long lasting heat blow. The max temperature is 550°C. and is the perfect adjusted temperature for all heat shrink connectors. A must have for a Robotic Mower Installer Cordless performance with Lithium batteries Repair over 30 boundary wires on one charge Can be used to connect any Robot Mower cable You will quickly find that the AM Heat gun is your best friend in the outdoor field if you need to use heat shrink, heat sleeves, tin or electrical tape. Battery: 4AH lithium battery Power: 18v"
+        }
+      ]
+    },
+    {
+      "doc_id": "catalogue-da-am-porta",
+      "doc_type": "catalogue",
+      "language": "da",
+      "source": "Catalogue_Danish.json",
+      "pages": [
+        {
+          "page_number": 1,
+          "heading": "Catalogue Reference (Danish)",
+          "text": "See attached catalogue for product family context and specifications. (Danish catalogue included.)"
+        }
+      ],
+      "metadata": {
+        "attached_file": "Catalogue_Danish.json"
+      }
+    },
+    {
+      "doc_id": "catalogue-en-am-porta",
+      "doc_type": "catalogue",
+      "language": "en",
+      "source": "Catalogue_English.json",
+      "pages": [
+        {
+          "page_number": 1,
+          "heading": "Catalogue Reference (English)",
+          "text": "See attached catalogue for product family context and specifications. (English catalogue included.)"
+        }
+      ],
+      "metadata": {
+        "attached_file": "Catalogue_English.json"
+      }
+    },
+    {
+      "doc_id": "catalogue-fr-am-porta",
+      "doc_type": "catalogue",
+      "language": "fr",
+      "source": "Catalogue_French.json",
+      "pages": [
+        {
+          "page_number": 1,
+          "heading": "Catalogue Reference (French)",
+          "text": "See attached catalogue for product family context and specifications. (French catalogue included.)"
+        }
+      ],
+      "metadata": {
+        "attached_file": "Catalogue_French.json"
+      }
+    },
+    {
+      "doc_id": "catalogue-de-am-porta",
+      "doc_type": "catalogue",
+      "language": "de",
+      "source": "Catalogue_German.json",
+      "pages": [
+        {
+          "page_number": 1,
+          "heading": "Catalogue Reference (German)",
+          "text": "See attached catalogue for product family context and specifications. (German catalogue included.)"
+        }
+      ],
+      "metadata": {
+        "attached_file": "Catalogue_German.json"
+      }
+    },
+    {
+      "doc_id": "catalogue-it-am-porta",
+      "doc_type": "catalogue",
+      "language": "it",
+      "source": "Catalogue_Italian.json",
+      "pages": [
+        {
+          "page_number": 1,
+          "heading": "Catalogue Reference (Italian)",
+          "text": "See attached catalogue for product family context and specifications. (Italian catalogue included.)"
+        }
+      ],
+      "metadata": {
+        "attached_file": "Catalogue_Italian.json"
+      }
+    },
+    {
+      "doc_id": "catalogue-es-am-porta",
+      "doc_type": "catalogue",
+      "language": "es",
+      "source": "Catalogue_Spanish.json",
+      "pages": [
+        {
+          "page_number": 1,
+          "heading": "Catalogue Reference (Spanish)",
+          "text": "See attached catalogue for product family context and specifications. (Spanish catalogue included.)"
+        }
+      ],
+      "metadata": {
+        "attached_file": "Catalogue_Spanish.json"
+      }
+    }
+  ],
+  "chunks": [
+    {
+      "chunk_id": "c-am-portabl-overview-0001",
+      "doc_id": "proddetail-en-am-porta",
+      "language": "en",
+      "doc_type": "product_details",
+      "page_number": 1,
+      "heading": "Overview",
+      "chunk_index": 0,
+      "text": "If you want to be sure to bring the best tool for any repair or installation of a robot lawn mower, then you need our AM Portable Heat Gun.",
+      "token_count": 34,
+      "metadata": {
+        "product_id": "am-portable-heat-gun",
+        "source": "sourceFile.txt"
+      }
+    },
+    {
+      "chunk_id": "c-am-portabl-desc-0002",
+      "doc_id": "proddetail-en-am-porta",
+      "language": "en",
+      "doc_type": "product_details",
+      "page_number": 1,
+      "heading": "Description",
+      "chunk_index": 1,
+      "text": "If you want to be sure to bring the best tool for any repair or installation of a robot lawn mower, then you need our AM Portable Heat Gun. This product has been designed to make repairs on boundary cable in any garden at any location. You can do over 30 repairs on one battery charge, and you are ensuring the best quality connection if you use our Pro Heat Shrink Kit for Repairs for connection of 2 wires. The heat gun runs on 18 volt power and the 4AH battery will help you provide a powerful and",
+      "token_count": 125,
+      "metadata": {
+        "product_id": "am-portable-heat-gun",
+        "source": "sourceFile.txt"
+      }
+    }
+  ],
+  "provenance": {
+    "ingested_at": "2026-01-01T14:19:58Z",
+    "ingested_by": "document-processor-v1.0",
+    "raw_files": [
+      "sourceFile.txt",
+      "Catalogue_Danish.json",
+      "Catalogue_English.json",
+      "Catalogue_French.json",
+      "Catalogue_German.json",
+      "Catalogue_Italian.json",
+      "Catalogue_Spanish.json"
+    ]
+  }
+}

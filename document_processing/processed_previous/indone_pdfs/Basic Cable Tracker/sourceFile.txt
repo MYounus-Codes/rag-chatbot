@@ -1,0 +1,19 @@
+Product info
+
+title:
+Basic Cable Tracker
+
+Description:
+The Basic Cable Tracker works for cables above the ground.
+This tracker can locate up to 10 km of cable. You need to hold the tracker on the wire, for it to detect the cable.
+The tracker can also be used, if you dig up the buried cable. However, we recommend using our Pro tracker for cables underground.
+SKU: 60503597 
+Categories: Others, Trackers
+Additional information:
+Weight: 0,4 kg
+
+Catalogues are in this directory:
+document_processing\input_pdfs\Basic Cable Tracker\catalogues
+
+All above files, data, information to be used for:
+document_processing\input_pdfs\Basic Cable Tracker\Basic Cable Tracker.json
